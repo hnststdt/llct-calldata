@@ -1,0 +1,5336 @@
+{
+  "groups": [
+    {
+      "id": "muse",
+      "name": "µ's",
+      "artists": [
+        "µ's",
+        "A-RISE",
+        "Printemps",
+        "BiBi",
+        "lily white",
+        "코우사카 호노카 (CV. 닛타 에미)",
+        "아야세 에리 (CV. 난죠 요시노)",
+        "미나미 코토리 (CV. 우치다 아야)",
+        "소노다 우미 (CV. 미모리 스즈코)",
+        "호시조라 린 (CV. 아이다 리호)",
+        "니시키노 마키 (CV. Pile)",
+        "토죠 노조미 (CV. 쿠스다 아이나)",
+        "코이즈미 하나요 (CV. 쿠보 유리카)",
+        "야자와 니코 (CV. 토쿠이 소라)"
+      ],
+      "color": "#E4007F"
+    },
+    {
+      "id": "aqours",
+      "name": "Aqours",
+      "artists": [
+        "Aqours",
+        "Saint Snow",
+        "Saint Aqours Snow",
+        "CYaRon!",
+        "AZALEA",
+        "Guilty Kiss",
+        "타카미 치카 (CV. 이나미 안쥬)",
+        "사쿠라우치 리코 (CV. 아이다 리카코)",
+        "마츠우라 카난 (CV. 스와 나나카)",
+        "쿠로사와 다이아 (CV. 코미야 아리사)",
+        "와타나베 요우 (CV. 사이토 슈카)",
+        "츠시마 요시코 (CV. 코바야시 아이카)",
+        "쿠니키다 하나마루 (CV. 타카츠키 카나코)",
+        "오하라 마리 (CV. 스즈키 아이나)",
+        "쿠로사와 루비 (CV. 후리하타 아이)"
+      ],
+      "color": "#00A0E9"
+    },
+    {
+      "id": "nijigasaki",
+      "name": "虹ヶ咲学園スクールアイドル同好会",
+      "artists": [
+        "虹ヶ咲学園スクールアイドル同好会",
+        "DiverDiva",
+        "AZUNA",
+        "QU4RTZ",
+        "우에하라 아유무 (CV. 오오니시 아구리)",
+        "나카스 카스미 (CV. 사가라 마유)",
+        "오사카 시즈쿠 (CV. 마에다 카오리)",
+        "아사카 카린 (CV. 쿠보타 미유)",
+        "미야시타 아이 (CV. 무라카미 나츠미)",
+        "코노에 카나타 (CV. 키토 아카리)",
+        "유우키 세츠나 (CV. 쿠스노키 토모리)",
+        "엠마 베르데 (CV. 사시데 마리아)",
+        "텐노지 리나 (CV. 타나카 치에미)",
+        "미후네 시오리코 (CV. 코이즈미 모에카)"
+      ],
+      "color": "#F6B92E"
+    },
+    {
+      "id": "liella",
+      "name": "Liella!",
+      "artists": [
+        "Liella!"
+      ],
+      "color": "#9B3790"
+    }
+  ],
+  "songs": [
+    [
+      {
+        "title": "僕らのLIVE 君とのLIFE",
+        "title.ko": "우리들의 LIVE 너와의 LIFE",
+        "artist": 0,
+        "metadata": {
+          "album": "僕らのLIVE 君とのLIFE",
+          "length": 323,
+          "released": 1282662000,
+          "composer": [
+            "山田高弘"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3N3jaGb18pYfFzpe1GZgfI",
+            "youtube": "Ujuw92V3GH0"
+          }
+        }
+      },
+      {
+        "title": "友情ノーチェンジ",
+        "title.ko": "우정 노 체인지",
+        "artist": 0,
+        "metadata": {
+          "album": "僕らのLIVE 君とのLIFE",
+          "length": 254,
+          "released": 1282662000,
+          "composer": [
+            "Tron-LM"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1FpxpvqMdeXnLGzRwisfpk",
+            "youtube": "N186W-XRFEc"
+          }
+        }
+      },
+      {
+        "title": "Snow halation",
+        "artist": 0,
+        "metadata": {
+          "album": "Snow halation",
+          "length": 259,
+          "released": 1292943600,
+          "composer": [
+            "山田高弘"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:7B2YKWz6UoXvOUEX32r3ov",
+            "youtube": "OzGVz1ClxIc"
+          }
+        }
+      },
+      {
+        "title": "baby maybe 恋のボタン",
+        "title.ko": "baby maybe 사랑의 버튼",
+        "artist": 0,
+        "metadata": {
+          "album": "Snow halation",
+          "length": 269,
+          "released": 1292943600,
+          "composer": [
+            "山口朗彦"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1xQSoo3pqLCK4YrwVZFL3U",
+            "youtube": "_0w9LiAB6Tk"
+          }
+        }
+      },
+      {
+        "title": "Love marginal",
+        "artist": 2,
+        "metadata": {
+          "album": "Love marginal",
+          "length": 274,
+          "released": 1306249200,
+          "composer": [
+            "藤末樹"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:0lZxMTEf7eV50NwPZUr81R",
+            "youtube": "0yrU8z6bGGg"
+          }
+        }
+      },
+      {
+        "title": "sweet＆sweet holiday",
+        "artist": 2,
+        "metadata": {
+          "album": "Love marginal",
+          "length": 255,
+          "released": 1306249200,
+          "composer": [
+            "山口朗彦"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2BWfehyKdJcDmtWvc5QQuZ",
+            "youtube": "ZwM5JMglwx0"
+          }
+        }
+      },
+      {
+        "title": "ダイヤモンドプリンセスの憂鬱",
+        "title.ko": "다이아몬드 프린세스의 우울",
+        "artist": 3,
+        "metadata": {
+          "album": "ダイヤモンドプリンセスの憂鬱",
+          "length": 233,
+          "released": 1308668400,
+          "composer": [
+            "吉田勝弥"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:00De4sGIUcg4IXP2NgQZKL",
+            "youtube": "Ptja6yej7s4"
+          }
+        }
+      },
+      {
+        "title": "ラブノベルス",
+        "title.ko": "러브 노벨즈",
+        "artist": 3,
+        "metadata": {
+          "album": "ダイヤモンドプリンセスの憂鬱",
+          "length": 218,
+          "released": 1308668400,
+          "composer": [
+            "佐々倉有吾"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3mmJoXGtdhf5Hpy04ivqXv",
+            "youtube": "osKlSVYbb28"
+          }
+        }
+      },
+      {
+        "title": "知らないLove*教えてLove",
+        "title.ko": "모르는 Love*가르쳐줘 Love",
+        "artist": 4,
+        "metadata": {
+          "album": "知らないLove*教えてLove",
+          "length": 241,
+          "released": 1311692400,
+          "composer": [
+            "星和生"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:0POYo1TeIcMYxYOPl5838N",
+            "youtube": "f2oroXbhPaI"
+          }
+        }
+      },
+      {
+        "title": "あ・の・ね・が・ん・ば・れ！",
+        "title.ko": "있・잖・아・힘・을・내!",
+        "artist": 4,
+        "metadata": {
+          "album": "知らないLove*教えてLove",
+          "length": 255,
+          "released": 1311692400,
+          "composer": [
+            "青木多果"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4o6F205900kTFY8Re0uAOH",
+            "youtube": "8EjUGoY8DjA"
+          }
+        }
+      },
+      {
+        "title": "夏色えがおで1,2,Jump!",
+        "title.ko": "여름빛 미소로 1, 2, Jump!",
+        "artist": 0,
+        "metadata": {
+          "album": "夏色えがおで1，2，Jump！",
+          "length": 268,
+          "released": 1314111600,
+          "composer": [
+            "近藤昭雄"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3BOY5GSuzgkvdV87sK9kQN",
+            "youtube": "a8dsz4dRnU0"
+          }
+        }
+      },
+      {
+        "title": "Mermaid festa vol.1",
+        "artist": 0,
+        "metadata": {
+          "album": "夏色えがおで1，2，Jump！",
+          "length": 239,
+          "released": 1314111600,
+          "composer": [
+            "俊龍"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1BROV2oeTupBcvWGZadmAJ",
+            "youtube": "CxZ3VriUOF8"
+          }
+        }
+      },
+      {
+        "title": "私たちは未来の花",
+        "title.ko": "우리들은 미래의 꽃",
+        "artist": 8,
+        "metadata": {
+          "album": "ラブライブ！ Solo Live！ from μ's 園田海未 海色少女に魅せられて",
+          "length": 285,
+          "released": 1321974000,
+          "composer": [
+            "三浦誠司"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4VKR4ctwTshVKIYg8AMtPI",
+            "youtube": "C14xftSCLCA"
+          }
+        }
+      },
+      {
+        "title": "スピカテリブル",
+        "title.ko": "스피카 테러블",
+        "artist": 7,
+        "metadata": {
+          "album": "ラブライブ！　Solo Live! from μ's 南ことり ことりLovin' you",
+          "length": 256,
+          "released": 1323788400,
+          "streaming": {
+            "spotify": "spotify:track:5a85PtoW6CYzl29zwxkJvl",
+            "youtube": "dyNG275vqfs"
+          }
+        }
+      },
+      {
+        "title": "愛は太陽じゃない?",
+        "title.ko": "사랑은 태양이 아닐까?",
+        "artist": 5,
+        "metadata": {
+          "album": "ラブライブ！ Solo Live！ from μ's 高坂穂乃果 ほんのり穂乃果色！",
+          "length": 233,
+          "released": 1327417200,
+          "composer": [
+            "佐々倉有吾"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3Rp1o84SMKnRh28nUOhS5G",
+            "youtube": "K6N2oSClFus"
+          }
+        }
+      },
+      {
+        "title": "もうひとりじゃないよ",
+        "title.ko": "더 이상 혼자가 아니야",
+        "artist": 5,
+        "metadata": {
+          "album": "ラブライブ！ Solo Live！ from μ's 高坂穂乃果 ほんのり穂乃果色！",
+          "length": 280,
+          "released": 1327417200,
+          "composer": [
+            "佐伯高志"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5WDgwWeXQLOHgLoEfO147w",
+            "youtube": "iMGkGzAN31c"
+          }
+        }
+      },
+      {
+        "title": "もぎゅっと“love”で接近中！",
+        "title.ko": "꼬옥 \"love\"로 접근 중!",
+        "artist": 0,
+        "metadata": {
+          "album": "もぎゅっと\"love\"で接近中！",
+          "length": 341,
+          "released": 1329231600,
+          "composer": [
+            "増田達行"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6VGQKfLJK6diCqJXzU6MqF",
+            "youtube": "q9eR2F1CkO4"
+          }
+        }
+      },
+      {
+        "title": "愛してるばんざーい！",
+        "title.ko": "사랑해 만세!",
+        "artist": 0,
+        "metadata": {
+          "album": "もぎゅっと\"love\"で接近中！",
+          "length": 293,
+          "released": 1329231600,
+          "composer": [
+            "山田高弘"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5UoHE2zwp6DbC0df7fn2D3",
+            "youtube": "bGVOCTnEMHk"
+          }
+        }
+      },
+      {
+        "title": "Mermaid festa vol.2 ~Passionate~",
+        "artist": [
+          5,
+          9
+        ],
+        "metadata": {
+          "album": "Mermaid festa vol．2 ～Passionate～",
+          "length": 323,
+          "released": 1335279600,
+          "composer": [
+            "山崎真吾"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:06J8shVN94GqBb5GkU83lW",
+            "youtube": "WW97E1XfIjw"
+          }
+        }
+      },
+      {
+        "title": "Someday of my life",
+        "artist": [
+          5,
+          9
+        ],
+        "metadata": {
+          "album": "Mermaid festa vol．2 ～Passionate～",
+          "length": 265,
+          "released": 1335279600,
+          "composer": [
+            "八重樫ゆう一"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4jd8aHaI37A8tr3t05yqpm",
+            "youtube": "R6FQ3Dwkez0"
+          }
+        }
+      },
+      {
+        "title": "恋のシグナルRin rin rin!",
+        "title.ko": "사랑의 시그널 Rin rin rin!",
+        "artist": [
+          5,
+          9
+        ],
+        "metadata": {
+          "album": "Mermaid festa vol．2 ～Passionate～",
+          "length": 260,
+          "released": 1335279600,
+          "composer": [
+            "須田真吾"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1ZCI6BRGkvhjejrrgg8PSK",
+            "youtube": "Pn_Tr9H915A"
+          }
+        }
+      },
+      {
+        "title": "乙女式れんあい塾",
+        "title.ko": "소녀식 연애 학원",
+        "artist": [
+          11,
+          13
+        ],
+        "metadata": {
+          "album": "乙女式れんあい塾",
+          "length": 201,
+          "released": 1337698800,
+          "composer": [
+            "佐々木 裕"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4tvvypcJNtFQz5Hj7FfHoE",
+            "youtube": "cU_CYqNkGT4"
+          }
+        }
+      },
+      {
+        "title": "まほうつかいはじめました！",
+        "title.ko": "마법사 시작했습니다!",
+        "artist": [
+          11,
+          13
+        ],
+        "metadata": {
+          "album": "乙女式れんあい塾",
+          "length": 241,
+          "released": 1337698800,
+          "composer": [
+            "鈴木裕明"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3fmBmvPcFMW3cW66i8oTyi",
+            "youtube": "O2OKMwLnNvQ"
+          }
+        }
+      },
+      {
+        "title": "純愛レンズ",
+        "title.ko": "순애 렌즈",
+        "artist": [
+          11,
+          13
+        ],
+        "metadata": {
+          "album": "乙女式れんあい塾",
+          "length": 273,
+          "released": 1337698800,
+          "composer": [
+            "山元佑介"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:0NTXAZn1Jev01NtDN3ur2Z",
+            "youtube": "1rCV_Wivh_E"
+          }
+        }
+      },
+      {
+        "title": "告白日和、です！",
+        "title.ko": "고백하기 좋은 날, 입니다!",
+        "artist": [
+          7,
+          12
+        ],
+        "metadata": {
+          "album": "告白日和、です！",
+          "length": 217,
+          "released": 1340722800,
+          "composer": [
+            "若林充"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:0EQ3LxQgs8JycrBpv1WUcS",
+            "youtube": "l-B3aDlI-co"
+          }
+        }
+      },
+      {
+        "title": "ぶる~べりぃ♥とれいん",
+        "title.ko": "블루~베리♥트레인",
+        "artist": [
+          7,
+          12
+        ],
+        "metadata": {
+          "album": "告白日和、です！",
+          "length": 229,
+          "released": 1340722800,
+          "composer": [
+            "増田達行"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5jYUEjwuNIdHALCkcNaKCT",
+            "youtube": "L8JfI5aJoVg"
+          }
+        }
+      },
+      {
+        "title": "孤独なHeaven",
+        "title.ko": "고독한 Heaven",
+        "artist": [
+          7,
+          12
+        ],
+        "metadata": {
+          "album": "告白日和、です！",
+          "length": 276,
+          "released": 1340722800,
+          "composer": [
+            "前口渉"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6cIM9nnyKoIpg1H3Ewkv1v",
+            "youtube": "xUPcrYKe-JE"
+          }
+        }
+      },
+      {
+        "title": "soldier game",
+        "artist": [
+          6,
+          8,
+          10
+        ],
+        "metadata": {
+          "album": "soldier game",
+          "length": 221,
+          "released": 1343142000,
+          "composer": [
+            "若林 充"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:0xzwcaP8fD9rWgIBUM3BJ1",
+            "youtube": "Ot2LMV0d1Ac"
+          }
+        }
+      },
+      {
+        "title": "Daring!!",
+        "artist": [
+          6,
+          8,
+          10
+        ],
+        "metadata": {
+          "album": "soldier game",
+          "length": 211,
+          "released": 1343142000,
+          "composer": [
+            "近藤圭一"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:04WJ0hD52M5nF0xPERk0UC",
+            "youtube": "LBWRjNcSeFE"
+          }
+        }
+      },
+      {
+        "title": "勇気のReason",
+        "title.ko": "용기의 Reason",
+        "artist": [
+          6,
+          8,
+          10
+        ],
+        "metadata": {
+          "album": "soldier game",
+          "length": 231,
+          "released": 1343142000,
+          "composer": [
+            "増谷 賢"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4lFrXhNvigz4MjIAQ0FQ4X",
+            "youtube": "PGuTNtOdN_E"
+          }
+        }
+      },
+      {
+        "title": "ありふれた悲しみの果て",
+        "title.ko": "흔한 슬픔의 끝",
+        "artist": [
+          6,
+          8,
+          10
+        ],
+        "metadata": {
+          "album": "soldier game",
+          "length": 243,
+          "released": 1343142000,
+          "composer": [
+            "佐伯高志"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2Etuu3vKIDsOuOrRjKMXf4",
+            "youtube": "NncyZQuAnvM"
+          }
+        }
+      },
+      {
+        "title": "Wonderful Rush",
+        "artist": 0,
+        "metadata": {
+          "album": "Wonderful Rush",
+          "length": 280,
+          "released": 1346770800,
+          "composer": [
+            "河田貴央"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1svfceEomGTQo147p3VDbA",
+            "youtube": "fwVG0aXebh8"
+          }
+        }
+      },
+      {
+        "title": "Oh,Love＆Peace!",
+        "artist": 0,
+        "metadata": {
+          "album": "Wonderful Rush",
+          "length": 299,
+          "released": 1346770800,
+          "composer": [
+            "黒須克彦"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6F1WmePsZNDhX6AjMsLlvo",
+            "youtube": "9cdukRjlaJQ"
+          }
+        }
+      },
+      {
+        "title": "Listen to my heart!!",
+        "artist": [
+          9,
+          12,
+          13
+        ],
+        "metadata": {
+          "album": "ラブライ部 ラジオ課外活動 にこりんぱな テーマソングDJCD",
+          "length": 267,
+          "released": 1350399600,
+          "composer": [
+            "河原嶺旭"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2PvJIBrteDJHsUdwz5yOX4",
+            "youtube": "0kivo9WZ72g"
+          }
+        }
+      },
+      {
+        "title": "after school NAVIGATORS",
+        "artist": [
+          9,
+          12,
+          13
+        ],
+        "metadata": {
+          "album": "ラブライ部 ラジオ課外活動 にこりんぱな テーマソングDJCD",
+          "length": 283,
+          "released": 1350399600,
+          "composer": [
+            "河田貴央"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3ST9NT0dvazOoAttqszkvv",
+            "youtube": "zMipXg-4LE4"
+          }
+        }
+      },
+      {
+        "title": "僕らは今のなかで",
+        "title.ko": "우리들은 지금 속에서",
+        "artist": 0,
+        "metadata": {
+          "album": "僕らは今のなかで",
+          "length": 276,
+          "released": 1358866800,
+          "streaming": {
+            "spotify": "spotify:track:3CWqynPQ19CcRK1Tk67pUN",
+            "youtube": "KEt6LEPFlHs"
+          }
+        }
+      },
+      {
+        "title": "WILD STARS",
+        "artist": 0,
+        "metadata": {
+          "album": "僕らは今のなかで",
+          "length": 258,
+          "released": 1358866800,
+          "streaming": {
+            "spotify": "spotify:track:2YZ7ztho5Dza0F0NQwS2Cu",
+            "youtube": "YfzVLVfogpA"
+          }
+        }
+      },
+      {
+        "title": "きっと青春が聞こえる",
+        "title.ko": "분명 청춘이 들릴 거야",
+        "artist": 0,
+        "metadata": {
+          "album": "きっと青春が聞こえる",
+          "length": 247,
+          "released": 1360076400,
+          "streaming": {
+            "spotify": "spotify:track:4BVn9xx0R6184WvsmBidGr",
+            "youtube": "00HR0H8kwI4"
+          }
+        }
+      },
+      {
+        "title": "輝夜の城で踊りたい",
+        "title.ko": "카구야의 성에서 춤추고 싶어",
+        "artist": 0,
+        "metadata": {
+          "album": "きっと青春が聞こえる",
+          "length": 271,
+          "released": 1360076400,
+          "streaming": {
+            "spotify": "spotify:track:6sNY19uKNWjFv4ultjEwMQ",
+            "youtube": "VTKMRBPCut0"
+          }
+        }
+      },
+      {
+        "title": "ススメ→トゥモロウ",
+        "title.ko": "나아가→Tomorrow",
+        "artist": [
+          5,
+          7,
+          8
+        ],
+        "metadata": {
+          "album": "ススメ→トゥモロウ / START：DASH！！",
+          "length": 274,
+          "released": 1361286000,
+          "composer": [
+            "河田貴央"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:7eAHUPVNo2CKHv8DWazbB4",
+            "youtube": "fTMWyNHxK9Q"
+          }
+        }
+      },
+      {
+        "title": "START:DASH!! 3인 버전",
+        "artist": [
+          5,
+          7,
+          8
+        ],
+        "metadata": {
+          "album": "ススメ→トゥモロウ / START：DASH！！",
+          "length": 254,
+          "released": 1361286000,
+          "composer": [
+            "佐々木裕"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5wkmzFGMJnCyibh5jWVt0x",
+            "youtube": "SjE_DhZEQ-w"
+          }
+        }
+      },
+      {
+        "title": "これからのSomeday",
+        "title.ko": "앞으로 다가올 Someday",
+        "artist": [
+          5,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13
+        ],
+        "metadata": {
+          "album": "これからのSomeday / Wonder zone",
+          "length": 266,
+          "released": 1362495600,
+          "streaming": {
+            "spotify": "spotify:track:4V4KAGasGzHoyHukAIGblN",
+            "youtube": "UxGpR0LfNhA"
+          }
+        }
+      },
+      {
+        "title": "Wonder zone",
+        "artist": 0,
+        "metadata": {
+          "album": "これからのSomeday / Wonder zone",
+          "length": 236,
+          "released": 1362495600,
+          "streaming": {
+            "spotify": "spotify:track:6xJStCZZWIVKuwsPK4SjYI",
+            "youtube": "YDB9zX8LgwI"
+          }
+        }
+      },
+      {
+        "title": "夢なき夢は夢じゃない",
+        "title.ko": "꿈이 없는 꿈은 꿈이 아니야",
+        "artist": 5,
+        "metadata": {
+          "album": "ラブライブ！TVA 1期 ブルーレイ 1冊 収録曲",
+          "length": 247,
+          "bpm": 157,
+          "released": 1363878000,
+          "composer": [
+            "高田 暁"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3Zry7EUDZEblU0j6nJSwNI",
+            "youtube": "7zCym-RwpTE"
+          }
+        }
+      },
+      {
+        "title": "No brand girls",
+        "artist": 0,
+        "metadata": {
+          "album": "No brand girls / START：DASH！！",
+          "length": 244,
+          "released": 1364914800,
+          "composer": [
+            "河田貴央"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6bCy82omDVBtrco1jkNvsV",
+            "youtube": "O0gKNO8HgBk"
+          }
+        }
+      },
+      {
+        "title": "START:DASH!!",
+        "artist": 0,
+        "metadata": {
+          "album": "No brand girls / START：DASH！！",
+          "length": 255,
+          "released": 1364914800,
+          "composer": [
+            "佐々木裕"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3l9MXGd95pwN4v5gn4pgrh",
+            "youtube": "8nr4pKmGsbM"
+          }
+        }
+      },
+      {
+        "title": "Private Wars",
+        "artist": 1,
+        "metadata": {
+          "album": "Notes of School idol days",
+          "length": 205,
+          "released": 1365519600,
+          "composer": [
+            "板垣祐介"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:7fNQYWUgVbguww7adXQLsO",
+            "youtube": "jcF2yXlasjc"
+          }
+        }
+      },
+      {
+        "title": "Anemone Heart",
+        "artist": [
+          7,
+          8
+        ],
+        "metadata": {
+          "album": "ラブライブ！TVA 1期 ブルーレイ 2冊 収録曲",
+          "length": 228,
+          "bpm": 129,
+          "released": 1366729200,
+          "composer": [
+            "高田 暁"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:41FVsypvb9X0gTYOHImShd",
+            "youtube": "mXpnWLHeQ0Q"
+          }
+        }
+      },
+      {
+        "title": "なわとび",
+        "title.ko": "줄넘기",
+        "artist": 12,
+        "metadata": {
+          "album": "ラブライブ！TVA 1期 ブルーレイ 3冊 収録曲",
+          "length": 363,
+          "bpm": 75,
+          "released": 1369666800,
+          "composer": [
+            "rino"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3K0ir6WzhM7flumN16KPYv",
+            "youtube": "0PAUzmn582o"
+          }
+        }
+      },
+      {
+        "title": "Beat in Angel",
+        "artist": [
+          9,
+          10
+        ],
+        "metadata": {
+          "album": "ラブライブ！TVA 1期 ブルーレイ 4冊 収録曲",
+          "length": 252,
+          "bpm": 150,
+          "released": 1371740400,
+          "composer": [
+            "倉内 達矢"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6Qi4IgeruvT9VR2kFYGIjP",
+            "youtube": "BE8R0dlrMbg"
+          }
+        }
+      },
+      {
+        "title": "微熱からMystery",
+        "title.ko": "미열에서 Mystery",
+        "artist": 4,
+        "metadata": {
+          "album": "微熱からMystery",
+          "length": 198,
+          "released": 1372172400,
+          "composer": [
+            "佐々木裕"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1CsfOYl3hjxzvcVFSrJOD4",
+            "youtube": "QUTZwSodwJc"
+          }
+        }
+      },
+      {
+        "title": "キミのくせに！",
+        "title.ko": "너 주제에!",
+        "artist": 4,
+        "metadata": {
+          "album": "微熱からMystery",
+          "length": 239,
+          "released": 1372172400,
+          "composer": [
+            "杉森 舞"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:48VMPiaDoFzymNNlIJNiKc",
+            "youtube": "0UWu1ws6bos"
+          }
+        }
+      },
+      {
+        "title": "Cutie Panther",
+        "artist": 3,
+        "metadata": {
+          "album": "Cutie Panther",
+          "length": 269,
+          "released": 1374591600,
+          "composer": [
+            "佐々木裕"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2LHSTbqhXhBmxDhyng99A0",
+            "youtube": "NXNfMwUR-w4"
+          }
+        }
+      },
+      {
+        "title": "夏、終わらないで。",
+        "title.ko": "여름, 끝나지 말아줘.",
+        "artist": 3,
+        "metadata": {
+          "album": "Cutie Panther",
+          "length": 242,
+          "released": 1374591600,
+          "composer": [
+            "渡辺和紀"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5emxkWnR2aB7s3d0iZq6pm",
+            "youtube": "4K7_eD4EedQ"
+          }
+        }
+      },
+      {
+        "title": "にこぷり♥女子道",
+        "title.ko": "니코프리♥여자의 길",
+        "artist": 13,
+        "metadata": {
+          "album": "ラブライブ！TVA 1期 ブルーレイ 5冊 収録曲",
+          "length": 265,
+          "bpm": 100,
+          "released": 1374764400,
+          "composer": [
+            "江並哲志"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1J9oSzJ4VenJNc5bYaIAj4",
+            "youtube": "uYEyJzQ8H8Y"
+          }
+        }
+      },
+      {
+        "title": "Pure girls project",
+        "artist": 2,
+        "metadata": {
+          "album": "Pure girls project",
+          "length": 274,
+          "released": 1377010800,
+          "streaming": {
+            "spotify": "spotify:track:5vDkBEGTLcPaK8m1IwppVO",
+            "youtube": "TTraARQlyD8"
+          }
+        }
+      },
+      {
+        "title": "UNBALANCED LOVE",
+        "artist": 2,
+        "metadata": {
+          "album": "Pure girls project",
+          "length": 266,
+          "released": 1377010800,
+          "streaming": {
+            "spotify": "spotify:track:1OKywwmIGxdiABlkKD53It",
+            "youtube": "hfV66t9KoJA"
+          }
+        }
+      },
+      {
+        "title": "硝子の花園",
+        "title.ko": "유리의 화원",
+        "artist": [
+          6,
+          11
+        ],
+        "metadata": {
+          "album": "ラブライブ！TVA 1期 ブルーレイ 6冊 収録曲",
+          "length": 274,
+          "bpm": 168,
+          "released": 1377615600,
+          "composer": [
+            "川崎里実"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:7GRzwocoVsW0yB0ERlBVMG",
+            "youtube": "LP55qNBi6pI"
+          }
+        }
+      },
+      {
+        "title": "LONELIEST BABY",
+        "artist": 0,
+        "metadata": {
+          "album": "ラブライブ！TVA 1期 ブルーレイ 7冊 収録曲",
+          "length": 300,
+          "bpm": 131,
+          "released": 1380034800,
+          "composer": [
+            "倉内 達矢"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2MaI9wGxEwFFUQ8tsXRf31",
+            "youtube": "69cpFzYEh_Y"
+          }
+        }
+      },
+      {
+        "title": "ぷわぷわーお！",
+        "title.ko": "푹신푹신-오!",
+        "artist": 2,
+        "metadata": {
+          "album": "ぷわぷわーお！",
+          "length": 221,
+          "released": 1380034800,
+          "composer": [
+            "佐々倉 有吾"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:26RTLtH0vbYO7P4RiTSHyq",
+            "youtube": "yRqN8_FOHjI"
+          }
+        }
+      },
+      {
+        "title": "Music S.T.A.R.T!!",
+        "artist": 0,
+        "metadata": {
+          "album": "Music S．T．A．R．T！！",
+          "length": 295,
+          "released": 1385478000,
+          "composer": [
+            "山口朗彦"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:0GXrpYkcxV43ORcaDLnTv1",
+            "youtube": "6k6IzQmTq1A"
+          }
+        }
+      },
+      {
+        "title": "LOVELESS WORLD",
+        "artist": 0,
+        "metadata": {
+          "album": "Music S．T．A．R．T！！",
+          "length": 314,
+          "released": 1385478000,
+          "composer": [
+            "山田高弘"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6xi4LnHN4H5uOvuyKjQFlM",
+            "youtube": "1Fi0W9R1gxU"
+          }
+        }
+      },
+      {
+        "title": "ENDLESS PARADE",
+        "artist": 0,
+        "metadata": {
+          "album": "ENDLESS PARADE",
+          "length": 263,
+          "released": 1390921200,
+          "composer": [
+            "矢吹 香那"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:50fUJov0ZgQAyv1XpZWiki",
+            "youtube": "6MCHwN8GmaA"
+          }
+        }
+      },
+      {
+        "title": "タカラモノズ",
+        "title.ko": "보물들",
+        "artist": 0,
+        "metadata": {
+          "album": "タカラモノズ/Paradise Live",
+          "length": 226,
+          "released": 1390921200,
+          "composer": [
+            "高田暁"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5WrPeRn12GRQKAJSxESayu",
+            "youtube": "YmqBJKuNamY"
+          }
+        }
+      },
+      {
+        "title": "Paradise Live",
+        "artist": 0,
+        "metadata": {
+          "album": "タカラモノズ/Paradise Live",
+          "length": 309,
+          "released": 1390921200,
+          "composer": [
+            "倉内達矢"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:7MPwXVgspfBMLXe3RPmiBQ",
+            "youtube": "kYJHzstbQiw"
+          }
+        }
+      },
+      {
+        "title": "それは僕たちの奇跡",
+        "title.ko": "그것은 우리들의 기적",
+        "artist": 0,
+        "metadata": {
+          "album": "それは僕たちの奇跡",
+          "length": 254,
+          "released": 1398178800,
+          "composer": [
+            "黒須克彦"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4M1msELaGptV81LDVIHAwb",
+            "youtube": "5o-5xX6ZU9s"
+          }
+        }
+      },
+      {
+        "title": "だってだって噫無情",
+        "title.ko": "그치만 그치만 아아 무정",
+        "artist": 0,
+        "metadata": {
+          "album": "それは僕たちの奇跡",
+          "length": 333,
+          "released": 1398178800,
+          "composer": [
+            "江並哲志"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2Zb08GHDVKaq7T9igjxmKe",
+            "youtube": "qIaYhwkrNdI"
+          }
+        }
+      },
+      {
+        "title": "どんなときもずっと",
+        "title.ko": "어떤 때라도 계속",
+        "artist": 0,
+        "metadata": {
+          "album": "どんなときもずっと",
+          "length": 277,
+          "released": 1399474800,
+          "composer": [
+            "佐々木 裕"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3BDVbNDjDPnnR4BFYkTorb",
+            "youtube": "2l0KZ8qUCYM"
+          }
+        }
+      },
+      {
+        "title": "COLORFUL VOICE",
+        "artist": 0,
+        "metadata": {
+          "album": "どんなときもずっと",
+          "length": 220,
+          "released": 1399474800,
+          "composer": [
+            "渡辺和紀"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5GXb0KYItTmt8MAypsGzNj",
+            "youtube": "z6KaH9L0AwQ"
+          }
+        }
+      },
+      {
+        "title": "ユメノトビラ",
+        "title.ko": "꿈의 문",
+        "artist": 0,
+        "metadata": {
+          "album": "ユメノトビラ",
+          "length": 289,
+          "released": 1401202800,
+          "composer": [
+            "佐伯高志"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6lObXB9bmMSTG6mZ80zZrw",
+            "youtube": "8fAjUvOfnRo"
+          }
+        }
+      },
+      {
+        "title": "SENTIMENTAL StepS",
+        "artist": 0,
+        "metadata": {
+          "album": "ユメノトビラ",
+          "length": 239,
+          "released": 1401202800,
+          "composer": [
+            "高阪昌至"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2sTpCCappu7dveknCxijb0",
+            "youtube": "MHM_CYyC3FA"
+          }
+        }
+      },
+      {
+        "title": "Love wing bell",
+        "artist": [
+          6,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "metadata": {
+          "album": "Love wing bell/Dancing stars on me！",
+          "length": 287,
+          "released": 1402412400,
+          "composer": [
+            "森 慎太郎"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5cIphsf5LYj5r5zL0XnQzK",
+            "youtube": "vI6QIoisuq0"
+          }
+        }
+      },
+      {
+        "title": "Dancing stars on me!",
+        "artist": 0,
+        "metadata": {
+          "album": "Love wing bell/Dancing stars on me！",
+          "length": 273,
+          "released": 1402412400,
+          "composer": [
+            "佐伯高志"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2nlBorhuZl0dt5TSUS71Yt",
+            "youtube": "PBeKaFMS6nY"
+          }
+        }
+      },
+      {
+        "title": "シアワセ行きのSMILING!",
+        "title.ko": "행복을 향한 SMILING!",
+        "artist": 5,
+        "metadata": {
+          "album": "ラブライブ！TVA 2期 ブルーレイ 1冊 収録曲",
+          "length": 229,
+          "bpm": 106,
+          "released": 1403190000,
+          "composer": [
+            "渡辺未来"
+          ],
+          "streaming": {
+            "youtube": "yntUCgeBGZ0"
+          }
+        }
+      },
+      {
+        "title": "KiRa-KiRa Sensation!",
+        "artist": 0,
+        "metadata": {
+          "album": "KiRa-KiRa Sensation！/Happy maker！",
+          "length": 297,
+          "released": 1404831600,
+          "composer": [
+            "本田光史郎"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:00d2FjyB2c85W8FPI7NT4K",
+            "youtube": "-VVzcmgrPpg"
+          }
+        }
+      },
+      {
+        "title": "Happy maker!",
+        "artist": 0,
+        "metadata": {
+          "album": "KiRa-KiRa Sensation！/Happy maker！",
+          "length": 296,
+          "released": 1404831600,
+          "composer": [
+            "前口 渉"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5RasXYDPDeJp1R8fSxln2j",
+            "youtube": "ULMS2CXjqGs"
+          }
+        }
+      },
+      {
+        "title": "ずるいよMagnetic today",
+        "title.ko": "치사해 Magnetic today",
+        "artist": [
+          10,
+          13
+        ],
+        "metadata": {
+          "album": "ラブライブ！TVA 2期 ブルーレイ 2冊 収録曲",
+          "length": 258,
+          "bpm": 90,
+          "released": 1406214000,
+          "composer": [
+            "岡本健介"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2KYfpZYWDFhJ1wVJt0nr6v",
+            "youtube": "9U8PPIeFD1w"
+          }
+        }
+      },
+      {
+        "title": "くるりんMIRACLE",
+        "title.ko": "빙그르르 MIRACLE",
+        "artist": 9,
+        "metadata": {
+          "album": "ラブライブ！TVA 2期 ブルーレイ 3冊 収録曲",
+          "length": 294,
+          "bpm": 103,
+          "released": 1409065200,
+          "composer": [
+            "森慎太郎"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6ecIYT0iS71sdeXyREo4hE",
+            "youtube": "KkHZxuj-M2c"
+          }
+        }
+      },
+      {
+        "title": "Shocking Party",
+        "artist": 1,
+        "metadata": {
+          "album": "Notes of School idol days ~Glory~",
+          "length": 208,
+          "bpm": 134,
+          "released": 1409065200,
+          "composer": [
+            "板垣祐介"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:17nYGWIYRNJYM9bTmRFG44",
+            "youtube": "ZhKF0Dh_Wig"
+          }
+        }
+      },
+      {
+        "title": "Storm in Lover",
+        "artist": [
+          6,
+          8
+        ],
+        "metadata": {
+          "album": "ラブライブ！TVA 2期 ブルーレイ 4冊 収録曲",
+          "length": 271,
+          "bpm": 120,
+          "released": 1411484400,
+          "composer": [
+            "増田 武史"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3OraxsSXFuqckOfrszEDy1",
+            "youtube": "7W1QaMBLHls"
+          }
+        }
+      },
+      {
+        "title": "Shangri-La Shower",
+        "artist": 0,
+        "metadata": {
+          "album": "Shangri-La Shower",
+          "length": 311,
+          "released": 1412089200,
+          "composer": [
+            "倉内達矢"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5E6Fl9mSi2Vd84RpmzYKsF",
+            "youtube": "0w8avFgPoSE"
+          }
+        }
+      },
+      {
+        "title": "るてしキスキしてる",
+        "artist": 0,
+        "metadata": {
+          "album": "Shangri-La Shower",
+          "length": 333,
+          "released": 1412089200,
+          "composer": [
+            "佐伯高志"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:0TnzZ9qMvLOYCkASYaZNCL",
+            "youtube": "C1rpyXG9a28"
+          }
+        }
+      },
+      {
+        "title": "もしもからきっと",
+        "title.ko": "만약으로부터 분명",
+        "artist": 11,
+        "metadata": {
+          "album": "ラブライブ！TVA 2期 ブルーレイ 5冊 収録曲",
+          "length": 319,
+          "bpm": 56,
+          "released": 1414508400,
+          "composer": [
+            "川崎里実"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3eV6hQkASfLH4rZsMfQJpi",
+            "youtube": "ZyHn2VMITfM"
+          }
+        }
+      },
+      {
+        "title": "永遠フレンズ",
+        "title.ko": "영원 프렌즈",
+        "artist": 2,
+        "metadata": {
+          "album": "永遠フレンズ",
+          "length": 316,
+          "released": 1415718000,
+          "composer": [
+            "中土智博"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:0QrA6mjr6HRp2aQkLw7ZHl",
+            "youtube": "o_aNwSxti88"
+          }
+        }
+      },
+      {
+        "title": "小夜啼鳥恋詩",
+        "title.ko": "나이팅게일 러브 송",
+        "artist": 2,
+        "metadata": {
+          "album": "永遠フレンズ",
+          "length": 320,
+          "released": 1415718000,
+          "composer": [
+            "渡辺和紀"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2yEjuc3iBNB5Ku5LVnGeiD",
+            "youtube": "CkeblSrHSXw"
+          }
+        }
+      },
+      {
+        "title": "好きですが好きですか？",
+        "title.ko": "좋아하는데 좋아하나요?",
+        "artist": [
+          7,
+          12
+        ],
+        "metadata": {
+          "album": "ラブライブ！TVA 2期 ブルーレイ 6冊 収録曲",
+          "length": 293,
+          "bpm": 134,
+          "released": 1416495600,
+          "composer": [
+            "渡辺 和紀"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:7k9bO5IT2yXgzaiUgTtEsR",
+            "youtube": "oygW9_dMYnY"
+          }
+        }
+      },
+      {
+        "title": "秋のあなたの空遠く",
+        "title.ko": "가을의 당신의 하늘 저 멀리",
+        "artist": 4,
+        "metadata": {
+          "album": "秋のあなたの空遠く",
+          "length": 220,
+          "released": 1416927600,
+          "composer": [
+            "増田武史"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:7JJy1a9aWRnOYA7ERkjXXr",
+            "youtube": "T_pwUsDtd1s"
+          }
+        }
+      },
+      {
+        "title": "ふたりハピネス",
+        "title.ko": "두 사람 해피니스",
+        "artist": 4,
+        "metadata": {
+          "album": "秋のあなたの空遠く",
+          "length": 370,
+          "released": 1416927600,
+          "composer": [
+            "佐々木裕"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:39moifUJfIqzZspMNdUXaA",
+            "youtube": "zZ7kRTD1EX4"
+          }
+        }
+      },
+      {
+        "title": "冬がくれた予感",
+        "title.ko": "겨울이 준 예감",
+        "artist": 3,
+        "metadata": {
+          "album": "冬がくれた予感",
+          "length": 332,
+          "released": 1419346800,
+          "composer": [
+            "佐伯高志"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:39Fg4Gjwe9Uv6aNgUSm71T",
+            "youtube": "QJXmBU-PAjc"
+          }
+        }
+      },
+      {
+        "title": "Trouble Busters",
+        "artist": 3,
+        "metadata": {
+          "album": "冬がくれた予感",
+          "length": 285,
+          "released": 1419346800,
+          "composer": [
+            "佐々倉有吾"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2YkhAKhpvi3lSv5vVIawXk",
+            "youtube": "mQvWniRXXPs"
+          }
+        }
+      },
+      {
+        "title": "CheerDay CheerGirl!",
+        "artist": 2,
+        "metadata": {
+          "album": "CheerDay CheerGirl！",
+          "length": 241,
+          "bpm": 150,
+          "released": 1419433200,
+          "composer": [
+            "佐々木裕"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5AlnmX5W1urzBN6a2mu7rx",
+            "youtube": "if-c2HOoBnw"
+          }
+        }
+      },
+      {
+        "title": "同じ星が見たい",
+        "title.ko": "같은 별이 보고 싶어",
+        "artist": 4,
+        "metadata": {
+          "album": "同じ星が見たい",
+          "length": 270,
+          "bpm": 162,
+          "released": 1419433200,
+          "composer": [
+            "佐々木裕"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5N4mL2wwOyRmV8knWYs3QN",
+            "youtube": "OfZv_nOXTkY"
+          }
+        }
+      },
+      {
+        "title": "Silent Tonight",
+        "artist": 3,
+        "metadata": {
+          "album": "Silent tonight",
+          "length": 320,
+          "bpm": 82,
+          "released": 1419433200,
+          "composer": [
+            "渡辺 和紀"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5klLVOYKURBm2cVEDUkCIH",
+            "youtube": "zAFyJXBbGQQ"
+          }
+        }
+      },
+      {
+        "title": "そして最後のページには",
+        "title.ko": "그리고 마지막 페이지에는",
+        "artist": 0,
+        "metadata": {
+          "album": "ラブライブ！TVA 2期 ブルーレイ 7冊 収録曲",
+          "length": 274,
+          "bpm": 134,
+          "released": 1419433200,
+          "composer": [
+            "渡辺 和紀"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2ALPMt9TJ9qtoJIGTrZuZg",
+            "youtube": "VvIesOU_714"
+          }
+        }
+      },
+      {
+        "title": "Dreamin' Go! Go!!",
+        "artist": 0,
+        "metadata": {
+          "album": "Dreamin' Go! Go!!",
+          "length": 303,
+          "released": 1422630000,
+          "composer": [
+            "TSUKASA"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4ivGELMa8ISyJ14CYsTbsV",
+            "youtube": "5JDC7WXdwFA"
+          }
+        }
+      },
+      {
+        "title": "ミはμ’sicのミ",
+        "title.ko": "미는 μ’sic의 미",
+        "artist": 0,
+        "metadata": {
+          "album": "ミはμ'sicのミ",
+          "length": 277,
+          "released": 1429628400,
+          "composer": [
+            "高田 暁"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3YwjuES5v9SsAcxiF4OtkW",
+            "youtube": "q52WWd94YEY"
+          }
+        }
+      },
+      {
+        "title": "Super LOVE＝Super LIVE!",
+        "artist": 0,
+        "metadata": {
+          "album": "ミはμ'sicのミ",
+          "length": 339,
+          "released": 1429628400,
+          "composer": [
+            "河田貴央"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5nQk7ARnlHN00w3CHeOQdI",
+            "youtube": "eBm1-qOja9A"
+          }
+        }
+      },
+      {
+        "title": "最低で最高のParadiso",
+        "title.ko": "최저이자 최고의 Paradiso",
+        "artist": 3,
+        "metadata": {
+          "album": "最低で最高のParadiso",
+          "length": 266,
+          "released": 1432306800,
+          "composer": [
+            "三浦 誠司"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:413989eaOv804ojmihWxCP",
+            "youtube": "Pw5eVaCzA9c"
+          }
+        }
+      },
+      {
+        "title": "乙姫心で恋宮殿",
+        "title.ko": "용녀 마음으로 사랑 궁전",
+        "artist": 4,
+        "metadata": {
+          "album": "乙姫心で恋宮殿",
+          "length": 295,
+          "released": 1432306800,
+          "composer": [
+            "木村 有希"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5K0FdKjsUkibNU1xpOQGTZ",
+            "youtube": "4wq7yB3dNow"
+          }
+        }
+      },
+      {
+        "title": "MUSEUMでどうしたい",
+        "title.ko": "MUSEUM에서 뭘하고 싶어?",
+        "artist": 2,
+        "metadata": {
+          "album": "MUSEUMでどうしたい？",
+          "length": 256,
+          "released": 1432306800,
+          "composer": [
+            "増田 武史"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4qD6yV5uh0Z9oZ1qnVDto2",
+            "youtube": "asU33AscyFM"
+          }
+        }
+      },
+      {
+        "title": "Angelic Angel",
+        "artist": 0,
+        "metadata": {
+          "album": "Angelic Angel/Hello，星を数えて",
+          "length": 297,
+          "released": 1435676400,
+          "composer": [
+            "森慎太郎"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:39URZtdz8fkfaAhNe6BHPB",
+            "youtube": "_9FhBDS4Kdw"
+          }
+        }
+      },
+      {
+        "title": "Hello, 星を数えて",
+        "title.ko": "Hello, 별을 세며",
+        "artist": [
+          9,
+          10,
+          12
+        ],
+        "metadata": {
+          "album": "Angelic Angel/Hello，星を数えて",
+          "length": 274,
+          "released": 1435676400,
+          "composer": [
+            "山口朗彦"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5lybWKtiujlsgc57CJ8b3B",
+            "youtube": "xKzzAV63r3w"
+          }
+        }
+      },
+      {
+        "title": "SUNNY DAY SONG",
+        "artist": 0,
+        "metadata": {
+          "album": "SUNNY DAY SONG/？←HEARTBEAT",
+          "length": 286,
+          "released": 1436281200,
+          "composer": [
+            "倉内達矢"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1ReMkk2qSsgGam4y9Adklz",
+            "youtube": "5pG3aTCgnmA"
+          }
+        }
+      },
+      {
+        "title": "？←HEARTBEAT",
+        "artist": [
+          6,
+          11,
+          13
+        ],
+        "metadata": {
+          "album": "SUNNY DAY SONG/？←HEARTBEAT",
+          "length": 209,
+          "released": 1436281200,
+          "composer": [
+            "本田光史郎"
+          ],
+          "streaming": {
+            "youtube": "KJEnC-oqiTg"
+          }
+        }
+      },
+      {
+        "title": "僕たちはひとつの光",
+        "title.ko": "우리는 하나의 빛",
+        "artist": 0,
+        "metadata": {
+          "album": "僕たちはひとつの光/Future style",
+          "length": 293,
+          "released": 1436886000,
+          "composer": [
+            "ZAQ"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:005NUwN5Mnre7uZ0KkQCaG",
+            "youtube": "RcYtUeu4EqQ"
+          }
+        }
+      },
+      {
+        "title": "Future style",
+        "artist": [
+          5,
+          7,
+          8
+        ],
+        "metadata": {
+          "album": "僕たちはひとつの光/Future style",
+          "length": 285,
+          "released": 1436886000,
+          "composer": [
+            "本田光史郎"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:22hu0luB8nJ7PaOV9xNbY6",
+            "youtube": "LdwEicog-3g"
+          }
+        }
+      },
+      {
+        "title": "As Time Goes By",
+        "artist": 0,
+        "metadata": {
+          "album": "Notes of School Idol Days ~Curtain Call~",
+          "length": 119,
+          "released": 1438700400,
+          "composer": [
+            "Herman Hupfeld"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4hMLV22cah0KQARP4GpWjV",
+            "youtube": "lysy00xlgZc"
+          }
+        }
+      },
+      {
+        "title": "HEART to HEART!",
+        "artist": 0,
+        "metadata": {
+          "album": "HEART to HEART!",
+          "length": 283,
+          "released": 1445958000,
+          "composer": [
+            "西岡和哉"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5ElFBYrLNttVeMZ0Ef1Vcv",
+            "youtube": "pFZYz_qn-co"
+          }
+        }
+      },
+      {
+        "title": "嵐のなかの恋だから",
+        "title.ko": "폭풍 속의 사랑이니까",
+        "artist": 0,
+        "metadata": {
+          "album": "HEART to HEART!",
+          "length": 318,
+          "released": 1445958000,
+          "composer": [
+            "酒井陽一"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1ZgSVNIl35mbAk4qZzBOXE",
+            "youtube": "SpXdy3UUe2s"
+          }
+        }
+      },
+      {
+        "title": "WAO-WAO Powerful day!",
+        "artist": 2,
+        "metadata": {
+          "album": "WAO-WAO Powerful day!",
+          "length": 193,
+          "bpm": 86,
+          "released": 1448377200,
+          "composer": [
+            "佐々木裕"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5IciBwCdCD7KN4cPS7slNI",
+            "youtube": "451oL6lI_Bo"
+          }
+        }
+      },
+      {
+        "title": "NO EXIT ORION",
+        "artist": 2,
+        "metadata": {
+          "album": "WAO-WAO Powerful day!",
+          "length": 254,
+          "bpm": 162,
+          "released": 1448377200,
+          "composer": [
+            "山田竜平"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:0GQap9r77nqRjaCHgNKlhJ",
+            "youtube": "PCSnu1WVzuw"
+          }
+        }
+      },
+      {
+        "title": "これから",
+        "title.ko": "지금부터",
+        "artist": 0,
+        "metadata": {
+          "album": "これから",
+          "length": 347,
+          "bpm": 85,
+          "released": 1450105200,
+          "composer": [
+            "伊藤真澄",
+            "ミト"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:7cmHkvRilNBoMbMYuDqiIC",
+            "youtube": "Pmold6wxrfA"
+          }
+        }
+      },
+      {
+        "title": "思い出以上になりたくて",
+        "title.ko": "추억 이상이 되고 싶어서",
+        "artist": 4,
+        "metadata": {
+          "album": "思い出以上になりたくて",
+          "length": 242,
+          "released": 1450796400,
+          "composer": [
+            "rino"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2OZQJEg4pzXfu3SiJ72zle",
+            "youtube": "7z_Hc6icSNc"
+          }
+        }
+      },
+      {
+        "title": "春情ロマンティック",
+        "title.ko": "춘정 로맨틱",
+        "artist": 4,
+        "metadata": {
+          "album": "思い出以上になりたくて",
+          "length": 274,
+          "released": 1450796400,
+          "composer": [
+            "佐々木裕"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4VeVZzE78CtjlyTqV7oLKd",
+            "youtube": "ORZtKVpwlG0"
+          }
+        }
+      },
+      {
+        "title": "錯覚CROSSROADS",
+        "title.ko": "착각 CROSSROADS",
+        "artist": 3,
+        "metadata": {
+          "album": "錯覚CROSSROADS",
+          "length": 299,
+          "released": 1453215600,
+          "composer": [
+            "川崎里実"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4L5OknODR8suUXkuXyWXGx",
+            "youtube": "MkMfmktnN5c"
+          }
+        }
+      },
+      {
+        "title": "PSYCHIC FIRE",
+        "artist": 3,
+        "metadata": {
+          "album": "錯覚CROSSROADS",
+          "length": 238,
+          "released": 1453215600,
+          "composer": [
+            "森慎太郎"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3s5ySlCioYgLP3hrrghaHo",
+            "youtube": "zHuJijck8dY"
+          }
+        }
+      },
+      {
+        "title": "MOMENT RING",
+        "artist": 0,
+        "metadata": {
+          "album": "MOMENT RING",
+          "length": 370,
+          "released": 1456844400,
+          "composer": [
+            "高田暁"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:0it9FhKT65mkHab7BnXENu",
+            "youtube": "Y8H_WPQjUNc"
+          }
+        }
+      },
+      {
+        "title": "さようならへさよなら！",
+        "title.ko": "안녕이란 말에 안녕!",
+        "artist": 0,
+        "metadata": {
+          "album": "MOMENT RING",
+          "length": 309,
+          "released": 1456844400,
+          "composer": [
+            "増谷賢"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:57H5pm6L38AC2D9L7h1Kfe",
+            "youtube": "UHLoMv80BCg"
+          }
+        }
+      },
+      {
+        "title": "A Song for You! You? You!!",
+        "artist": 0,
+        "metadata": {
+          "album": "A song for You! You? You!!",
+          "length": 351,
+          "released": 1585062000,
+          "composer": [
+            "高田 暁"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1TLDe7LHaRGh3nxPl1cKHG",
+            "youtube": "yCz_vEmTHFQ"
+          }
+        }
+      },
+      {
+        "title": "なってしまった！",
+        "title.ko": "되어버렸다!",
+        "artist": 0,
+        "metadata": {
+          "album": "A song for You! You? You!!",
+          "length": 277,
+          "released": 1585062000,
+          "composer": [
+            "山田高弘"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4rZ51vvTEY6RB3cCHUvC0a",
+            "youtube": "cB6JNen6HPI"
+          }
+        }
+      }
+    ],
+    [
+      {
+        "title": "君のこころは輝いてるかい？",
+        "title.ko": "너의 마음은 빛나고 있니?",
+        "artist": 0,
+        "metadata": {
+          "album": "君のこころは輝いてるかい？",
+          "length": 285,
+          "released": 1444176000,
+          "composer": [
+            "光増ハジメ"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:59TGQhWvrB2bIBj7z2FIjr",
+            "youtube": "qwyZ5vEE5s4"
+          }
+        }
+      },
+      {
+        "title": "Step! ZERO to ONE",
+        "artist": 0,
+        "metadata": {
+          "album": "君のこころは輝いてるかい？",
+          "length": 284,
+          "released": 1444176000,
+          "composer": [
+            "高田 暁"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1bgrQXcFqDs3gihiD2r3jd",
+            "youtube": "_ijn3e-3jtk"
+          }
+        }
+      },
+      {
+        "title": "Aqours☆HEROES",
+        "artist": 0,
+        "metadata": {
+          "album": "君のこころは輝いてるかい？",
+          "length": 256,
+          "released": 1444176000,
+          "composer": [
+            "渡辺和紀"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:0FQj7luDMVDhsTIKblIjtx",
+            "youtube": "DeaGkBbi-2E"
+          }
+        }
+      },
+      {
+        "title": "恋になりたいAQUARIUM",
+        "title.ko": "사랑이 되고 싶은 AQUARIUM",
+        "artist": 0,
+        "metadata": {
+          "album": "恋になりたいAQUARIUM",
+          "length": 309,
+          "released": 1461715200,
+          "composer": [
+            "佐々倉有吾"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3nxrLaPGlW1EsAWn23bcPX",
+            "youtube": "3j9YFNx12I0"
+          }
+        }
+      },
+      {
+        "title": "待ってて愛のうた",
+        "title.ko": "기다려줘 사랑의 노래",
+        "artist": 0,
+        "metadata": {
+          "album": "恋になりたいAQUARIUM",
+          "length": 361,
+          "released": 1461715200,
+          "composer": [
+            "山口朗彦"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6kkX6hoN7wkZu7n6K3399o",
+            "youtube": "XD-vjznVNXs"
+          }
+        }
+      },
+      {
+        "title": "届かない星だとしても",
+        "title.ko": "닿을 수 없는 별이라 해도",
+        "artist": 0,
+        "metadata": {
+          "album": "恋になりたいAQUARIUM",
+          "length": 288,
+          "released": 1461715200,
+          "composer": [
+            "宮崎 誠"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4HFtRL9y6elgztUDpXkX0t",
+            "youtube": "U0rUoB9ojcM"
+          }
+        }
+      },
+      {
+        "title": "元気全開DAY! DAY! DAY!",
+        "title.ko": "원기전개 DAY! DAY! DAY!",
+        "artist": 3,
+        "metadata": {
+          "album": "元気全開DAY! DAY! DAY!",
+          "length": 240,
+          "released": 1462924800,
+          "composer": [
+            "高田 暁"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:472fNidp2NJoijcPKMvaZv",
+            "youtube": "lGUOVwCiG3g"
+          }
+        }
+      },
+      {
+        "title": "夜空はなんでも知ってるの？",
+        "title.ko": "밤하는을 뭐든지 알고 있는 거야?",
+        "artist": 3,
+        "metadata": {
+          "album": "元気全開DAY! DAY! DAY!",
+          "length": 278,
+          "released": 1462924800,
+          "composer": [
+            "Kon-K"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1ORM9UcRS2m6sSCFHtGM9l",
+            "youtube": "h9ZzFn5AklI"
+          }
+        }
+      },
+      {
+        "title": "トリコリコPLEASE!!",
+        "title.ko": "토리코리코 PLEASE!!",
+        "artist": 4,
+        "metadata": {
+          "album": "トリコリコPLEASE!!",
+          "length": 227,
+          "released": 1464134400,
+          "composer": [
+            "宮崎 誠"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6d3G58cEHrqIMyDKaMuRu3",
+            "youtube": "tCdJ6fCkSCw"
+          }
+        }
+      },
+      {
+        "title": "ときめき分類学",
+        "title.ko": "두근거림 분류학",
+        "artist": 4,
+        "metadata": {
+          "album": "トリコリコPLEASE!!",
+          "length": 291,
+          "released": 1464134400,
+          "composer": [
+            "金崎真士"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5JvsOjJvozyfkeyGJo3y5x",
+            "youtube": "JFfFJgdhLjg"
+          }
+        }
+      },
+      {
+        "title": "Strawberry Trapper",
+        "artist": 5,
+        "metadata": {
+          "album": "Strawberry Trapper",
+          "length": 236,
+          "released": 1465344000,
+          "composer": [
+            "金崎真士"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3egD1YzZpyckmVlZJV4GOj",
+            "youtube": "Hkgc54cDwJg"
+          }
+        }
+      },
+      {
+        "title": "Guilty Night, Guilty Kiss!",
+        "artist": 5,
+        "metadata": {
+          "album": "Strawberry Trapper",
+          "length": 247,
+          "released": 1465344000,
+          "composer": [
+            "R・O・N"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:7LZRj9JzVDBrwV0Uxtjnba",
+            "youtube": "zsly4OzCfuE"
+          }
+        }
+      },
+      {
+        "title": "青空Jumping Heart",
+        "title.ko": "푸른 하늘 Jumping Heart",
+        "artist": 0,
+        "metadata": {
+          "album": "青空Jumping Heart",
+          "length": 284,
+          "released": 1468972800,
+          "composer": [
+            "伊藤 賢",
+            "光増ハジメ"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:7p9Oua59fBF8L7jaD144LA",
+            "youtube": "C9lUX6lkudw"
+          }
+        }
+      },
+      {
+        "title": "ハミングフレンド",
+        "title.ko": "허밍 프렌드",
+        "artist": 0,
+        "metadata": {
+          "album": "青空Jumping Heart",
+          "length": 310,
+          "released": 1468972800,
+          "composer": [
+            "桑原 聖 (Arte Refact)"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1U4UY7KKXW7F85jMHyFqBB",
+            "youtube": "hv-V4CLmkzI"
+          }
+        }
+      },
+      {
+        "title": "決めたよHand in Hand",
+        "title.ko": "결정했어 Hand in Hand",
+        "artist": [
+          6,
+          7,
+          10
+        ],
+        "metadata": {
+          "album": "決めたよHand in Hand/ダイスキだったらダイジョウブ！",
+          "length": 267,
+          "released": 1470182400,
+          "composer": [
+            "渡辺拓也"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5Tebv0qRKNlFXlxd0TiYAy",
+            "youtube": "0xHdXHSsJTQ"
+          }
+        }
+      },
+      {
+        "title": "ダイスキだったらダイジョウブ！",
+        "title.ko": "정말로 좋아한다면 괜찮아!",
+        "artist": [
+          6,
+          7,
+          10
+        ],
+        "metadata": {
+          "album": "決めたよHand in Hand/ダイスキだったらダイジョウブ！",
+          "length": 272,
+          "released": 1470182400,
+          "composer": [
+            "高田 暁"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:51118cg0D9k0F952AGtNou",
+            "youtube": "JrgM9L3G5jY"
+          }
+        }
+      },
+      {
+        "title": "ユメ語るよりユメ歌おう",
+        "title.ko": "꿈을 말하기보다는 꿈을 노래하자",
+        "artist": 0,
+        "metadata": {
+          "album": "ユメ語るよりユメ歌おう",
+          "length": 279,
+          "released": 1471996800,
+          "composer": [
+            "山口朗彦"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4DX6X29cQMY1io58PyWTri",
+            "youtube": "UogE0nwkLwg"
+          }
+        }
+      },
+      {
+        "title": "サンシャインぴっかぴか音頭",
+        "title.ko": "선샤인 반짝반짝 선창",
+        "artist": 0,
+        "metadata": {
+          "album": "ユメ語るよりユメ歌おう",
+          "length": 322,
+          "released": 1471996800,
+          "composer": [
+            "伊藤真澄"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:7muVCfGyqrbXoc0EbrmzK0",
+            "youtube": "6MHsaRghITY"
+          }
+        }
+      },
+      {
+        "title": "夢で夜空を照らしたい",
+        "title.ko": "꿈으로 밤하늘을 비추고 싶어",
+        "artist": [
+          6,
+          7,
+          10,
+          11,
+          12,
+          14
+        ],
+        "metadata": {
+          "album": "夢で夜空を照らしたい/未熟DREAMER",
+          "length": 334,
+          "released": 1473811200,
+          "composer": [
+            "光増ハジメ"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:0x89IEs0NJHOULPx4wgPPB",
+            "youtube": "AiJM0yAfVM4"
+          }
+        }
+      },
+      {
+        "title": "未熟DREAMER",
+        "title.ko": "미숙 DREAMER",
+        "artist": 0,
+        "metadata": {
+          "album": "夢で夜空を照らしたい/未熟DREAMER",
+          "length": 351,
+          "released": 1473811200,
+          "composer": [
+            "渡辺和紀"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6f9SU0JwNjVDjduReyFpAd",
+            "youtube": "dHasNhuseU8"
+          }
+        }
+      },
+      {
+        "title": "Pops heartで踊るんだもん！",
+        "title.ko": "Pops heart로 춤추는걸!",
+        "artist": 0,
+        "metadata": {
+          "album": "Pops heartで踊るんだもん！",
+          "length": 322,
+          "released": 1474934400,
+          "streaming": {
+            "spotify": "spotify:track:5wo7Q0bZZc8rWdQaXwquR8",
+            "youtube": "A_fOcLUppZw"
+          }
+        }
+      },
+      {
+        "title": "空も心も晴れるから",
+        "title.ko": "하늘도 마음도 맑을 테니까",
+        "artist": [
+          6,
+          7,
+          10
+        ],
+        "metadata": {
+          "album": "空も心も晴れるから",
+          "length": 304,
+          "released": 1477440000,
+          "streaming": {
+            "spotify": "spotify:track:6XXu1HySrCSd25li37RADe",
+            "youtube": "OprHYSjg5zQ"
+          }
+        }
+      },
+      {
+        "title": "想いよひとつになれ",
+        "title.ko": "마음이여 하나가 되어라",
+        "artist": [
+          6,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "metadata": {
+          "album": "想いよひとつになれ/MIRAI TICKET",
+          "length": 294,
+          "released": 1478649600,
+          "composer": [
+            "佐伯高志"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2h0JK3sS137DlbQrQehutp",
+            "youtube": "Fz0XoQY3sMw"
+          }
+        }
+      },
+      {
+        "title": "MIRAI TICKET",
+        "artist": 0,
+        "metadata": {
+          "album": "想いよひとつになれ/MIRAI TICKET",
+          "length": 245,
+          "released": 1478649600,
+          "composer": [
+            "EFFY"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:53r1ZLsLXyCSAJiTxF8hts",
+            "youtube": "CvQEhuJoH9I"
+          }
+        }
+      },
+      {
+        "title": "ジングルベルが止まらない",
+        "title.ko": "징글벨이 멈추지 않아",
+        "artist": 0,
+        "metadata": {
+          "album": "ジングルベルがとまらない",
+          "length": 289,
+          "released": 1479859200,
+          "composer": [
+            "光増ハジメ"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3eYOP1lzRetxIYLE4Ga67y",
+            "youtube": "FEi3wdJYIFQ"
+          }
+        }
+      },
+      {
+        "title": "聖なる日の祈り",
+        "title.ko": "성스러운 날의 기도",
+        "artist": 0,
+        "metadata": {
+          "album": "ジングルベルがとまらない",
+          "length": 278,
+          "released": 1479859200,
+          "composer": [
+            "田中俊亮"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:7M1W2728W0xVeI3nzICWsl",
+            "youtube": "fREtIttC3LE"
+          }
+        }
+      },
+      {
+        "title": "SELF CONTROL!!",
+        "artist": 1,
+        "metadata": {
+          "album": "TVアニメ『ラブライブ！サンシャイン!!』オリジナルサウンドトラック「Sailing to the Sunshine」",
+          "length": 238,
+          "released": 1479859200,
+          "composer": [
+            "河田貴央"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4dBdyHDWfox9QU0HN8y30t",
+            "youtube": "ziNL1FRZ5fY"
+          }
+        }
+      },
+      {
+        "title": "Waku-Waku-Week!",
+        "artist": [
+          11,
+          12,
+          14
+        ],
+        "metadata": {
+          "album": "Waku-Waku-Week!",
+          "length": 256,
+          "released": 1480032000,
+          "streaming": {
+            "spotify": "spotify:track:3hdl3kBMjapC8UF5mt3lRY",
+            "youtube": "U6621F-zrUw"
+          }
+        }
+      },
+      {
+        "title": "Daydream Warrior",
+        "artist": 0,
+        "metadata": {
+          "album": "Daydream Warrior",
+          "length": 275,
+          "released": 1482364800,
+          "streaming": {
+            "spotify": "spotify:track:449JyzwBG4L3IVHUf9zkZs",
+            "youtube": "9NOE0rXp8_Q"
+          }
+        }
+      },
+      {
+        "title": "G線上のシンデレラ",
+        "title.ko": "G선상의 신데렐라",
+        "artist": [
+          8,
+          9,
+          13
+        ],
+        "metadata": {
+          "album": "G線上のシンデレラ",
+          "length": 258,
+          "released": 1485475200,
+          "streaming": {
+            "spotify": "spotify:track:1q8HSZgkbK1AAs32TjBiW6",
+            "youtube": "giSzu1GcsCg"
+          }
+        }
+      },
+      {
+        "title": "スリリング・ワンウェイ",
+        "title.ko": "스릴링・원 웨이",
+        "artist": 0,
+        "metadata": {
+          "album": "スリリング・ワンウェイ",
+          "length": 272,
+          "released": 1487894400,
+          "streaming": {
+            "spotify": "spotify:track:0tJ6EW7EqnasppXMSXujDR",
+            "youtube": "qhOGlyW1D1c"
+          }
+        }
+      },
+      {
+        "title": "P.S.の向こう側",
+        "title.ko": "P.S.의 건너편",
+        "artist": 3,
+        "metadata": {
+          "album": "P.S.の向こう側",
+          "length": 270,
+          "released": 1490313600,
+          "streaming": {
+            "spotify": "spotify:track:71dzTiFCv92u6VkND7Vtc6",
+            "youtube": "6u7d7WrJLME"
+          }
+        }
+      },
+      {
+        "title": "LONELY TUNING",
+        "artist": 4,
+        "metadata": {
+          "album": "LONELY TUNING",
+          "length": 261,
+          "released": 1490313600,
+          "streaming": {
+            "spotify": "spotify:track:3SJdL6hW8ikRfox7mGWBxY",
+            "youtube": "eNxFXm_LuZI"
+          }
+        }
+      },
+      {
+        "title": "Guilty Eyes Fever",
+        "artist": 5,
+        "metadata": {
+          "album": "Guilty Eyes Fever",
+          "length": 253,
+          "released": 1490313600,
+          "streaming": {
+            "spotify": "spotify:track:3ViGWv9aLp5anpJRk4hPIe",
+            "youtube": "UcG5RpJ6DTg"
+          }
+        }
+      },
+      {
+        "title": "太陽を追いかけろ！",
+        "title.ko": "태양을 쫓아가자!",
+        "artist": 0,
+        "metadata": {
+          "length": 303,
+          "released": 1490313600,
+          "streaming": {
+            "spotify": "spotify:track:0u1pinuOi7gJh5HitZgaW7",
+            "youtube": "XzCzcYD0zck"
+          }
+        }
+      },
+      {
+        "title": "HAPPY PARTY TRAIN",
+        "artist": 0,
+        "metadata": {
+          "album": "HAPPY PARTY TRAIN",
+          "length": 277,
+          "released": 1491350400,
+          "composer": [
+            "渡辺拓也"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4juoJEZlwHSbIcD1W5Bdem",
+            "youtube": "LGvQ3lscChg"
+          }
+        }
+      },
+      {
+        "title": "SKY JOURNEY",
+        "artist": 0,
+        "metadata": {
+          "album": "HAPPY PARTY TRAIN",
+          "length": 245,
+          "released": 1491350400,
+          "composer": [
+            "早川博隆"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2c9UHaQUD7eW0x6GUbmZmo",
+            "youtube": "uX-V5JlE3Iw"
+          }
+        }
+      },
+      {
+        "title": "少女以上の恋がしたい",
+        "title.ko": "소녀 이상의 사랑이 하고 싶어",
+        "artist": 0,
+        "metadata": {
+          "album": "HAPPY PARTY TRAIN",
+          "length": 292,
+          "released": 1491350400,
+          "composer": [
+            "TAKAROT",
+            "KOUDAI IWATSUBO"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6S90iiviarDsqeZFYuOpow",
+            "youtube": "fP5nAQ0ycxM"
+          }
+        }
+      },
+      {
+        "title": "近未来ハッピーエンド",
+        "title.ko": "근미래 해피엔드",
+        "artist": 3,
+        "metadata": {
+          "album": "近未来ハッピーエンド",
+          "length": 310,
+          "released": 1494374400,
+          "composer": [
+            "藤井亮太"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:09hTxG0bQXAulhD92ambAW",
+            "youtube": "abrfiTxZG9Q"
+          }
+        }
+      },
+      {
+        "title": "海岸通りで待ってるよ",
+        "title.ko": "해안 도로에서 기다릴게",
+        "artist": 3,
+        "metadata": {
+          "album": "近未来ハッピーエンド",
+          "length": 260,
+          "released": 1494374400,
+          "composer": [
+            "渡辺未来"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5OLMQiEGFoBQ560FUwJm3O",
+            "youtube": "CcXMre0gprQ"
+          }
+        }
+      },
+      {
+        "title": "GALAXY HidE and SeeK",
+        "artist": 4,
+        "metadata": {
+          "album": "GALAXY HidE and SeeK",
+          "length": 261,
+          "released": 1496188800,
+          "composer": [
+            "竹市佳伸"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4hpJT2KzDvOqjaeXrVsaMP",
+            "youtube": "UJln5-o8jqg"
+          }
+        }
+      },
+      {
+        "title": "INNOCENT BIRD",
+        "artist": 4,
+        "metadata": {
+          "album": "GALAXY HidE and SeeK",
+          "length": 225,
+          "released": 1496188800,
+          "composer": [
+            "江並哲志"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:69n3yUeRmkVZpZuyiZcXgR",
+            "youtube": "SPh7tyj2Ipw"
+          }
+        }
+      },
+      {
+        "title": "コワレヤスキ",
+        "title.ko": "부서지기 쉬운 사랑",
+        "artist": 5,
+        "metadata": {
+          "album": "コワレヤスキ",
+          "length": 302,
+          "released": 1498003200,
+          "composer": [
+            "佐伯高志"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1TizL66jSoN48Hj8airJgr",
+            "youtube": "nTZWmPVtkqI"
+          }
+        }
+      },
+      {
+        "title": "Shadow gate to love",
+        "artist": 5,
+        "metadata": {
+          "album": "コワレヤスキ",
+          "length": 246,
+          "released": 1498003200,
+          "composer": [
+            "渡辺和紀"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:102b9XE1FmD4seoZrOBWoj",
+            "youtube": "7wmOFiRHCw4"
+          }
+        }
+      },
+      {
+        "title": "Landing action Yeah!!",
+        "artist": 0,
+        "metadata": {
+          "album": "Landing action Yeah!!",
+          "length": 267,
+          "released": 1498780800,
+          "composer": [
+            "光増ハジメ"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3ngiHH1JSTL7T2i1aDZy7c",
+            "youtube": "I2dTqCBOmN4"
+          }
+        }
+      },
+      {
+        "title": "夏の終わりの雨音が",
+        "title.ko": "여름 끝의 빗소리가",
+        "artist": [
+          6,
+          8
+        ],
+        "metadata": {
+          "album": "SUMMER VACATION",
+          "length": 321,
+          "released": 1501632000,
+          "composer": [
+            "片桐周太郎"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4YKBQ79ioNaMJJlXpCK74l",
+            "youtube": "7579Sej7CYk"
+          }
+        }
+      },
+      {
+        "title": "真夏は誰のモノ？",
+        "title.ko": "한 여름은 누구의 것?",
+        "artist": [
+          9,
+          14
+        ],
+        "metadata": {
+          "album": "SUMMER VACATION",
+          "length": 277,
+          "released": 1501632000,
+          "composer": [
+            "原田 篤 (Arte Refact)"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2NPr06O7VHTXOwdBoUSEJL",
+            "youtube": "Z-lzzpSjGi8"
+          }
+        }
+      },
+      {
+        "title": "地元愛♡満タン☆サマーライフ",
+        "title.ko": "고향 사랑♡가득 담은☆서머 라이프",
+        "artist": [
+          10,
+          11
+        ],
+        "metadata": {
+          "album": "SUMMER VACATION",
+          "length": 286,
+          "released": 1501632000,
+          "composer": [
+            "石倉誉之"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4e8YOAhIclDTz2ffTYycZ1",
+            "youtube": "dZKi7xIPv1Q"
+          }
+        }
+      },
+      {
+        "title": "夏への扉 Never end ver.",
+        "title.ko": "여름으로의 문 Never end ver.",
+        "artist": [
+          7,
+          12,
+          13
+        ],
+        "metadata": {
+          "album": "SUMMER VACATION",
+          "length": 256,
+          "released": 1501632000,
+          "composer": [
+            "金崎真士"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2tkXgl87zjKfDUFkht3maK",
+            "youtube": "EtBXixfB20g"
+          }
+        }
+      },
+      {
+        "title": "未来の僕らは知ってるよ",
+        "title.ko": "미래의 우리는 알고 있어",
+        "artist": 0,
+        "metadata": {
+          "album": "未来の僕らは知ってるよ",
+          "length": 250,
+          "released": 1508889600,
+          "composer": [
+            "光増ハジメ"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4Kr4DGSLD2SRmjxNjfm3uS",
+            "youtube": "RdUENJeYUYI"
+          }
+        }
+      },
+      {
+        "title": "君の瞳を巡る冒険",
+        "title.ko": "너의 눈동자를 둘러싼 모험",
+        "artist": 0,
+        "metadata": {
+          "album": "未来の僕らは知ってるよ",
+          "length": 322,
+          "released": 1508889600,
+          "composer": [
+            "渡辺和紀"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1Uf8JO0SLxmjFKVtV72d34",
+            "youtube": "YWQOwty3BJA"
+          }
+        }
+      },
+      {
+        "title": "勇気はどこに？君の胸に！",
+        "title.ko": "용기는 어디에? 너의 가슴에!",
+        "artist": 0,
+        "metadata": {
+          "album": "勇気はどこに？君の胸に！",
+          "length": 284,
+          "released": 1510704000,
+          "composer": [
+            "小高光太郎",
+            "UiNA"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2w5T8mOOsekn2uFtsHuK89",
+            "youtube": "fLnchHAGi4I"
+          }
+        }
+      },
+      {
+        "title": "“MY LIST” to you!",
+        "artist": 0,
+        "metadata": {
+          "album": "勇気はどこに？君の胸に！",
+          "length": 243,
+          "released": 1510704000,
+          "composer": [
+            "原 知也"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1nsP48vtZS2C2ZJ7xkgOCE",
+            "youtube": "eT1n8YM3C1c"
+          }
+        }
+      },
+      {
+        "title": "MY舞☆TONIGHT",
+        "title.ko": "MY무희☆TONIGHT",
+        "artist": 0,
+        "metadata": {
+          "album": "MY舞☆TONIGHT/MIRACLE WAVE",
+          "length": 265,
+          "released": 1511913600,
+          "composer": [
+            "EFFY (FirstCall)"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:0ldfDof0ijqXrfmbJmUpvo",
+            "youtube": "NEzMVzPgSF4"
+          }
+        }
+      },
+      {
+        "title": "MIRACLE WAVE",
+        "artist": 0,
+        "metadata": {
+          "album": "MY舞☆TONIGHT/MIRACLE WAVE",
+          "length": 252,
+          "released": 1511913600,
+          "composer": [
+            "酒井拓也 (Arte Refact)"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5eQA8ByEOmjyxLqByisyuF",
+            "youtube": "h5ih56dzVYw"
+          }
+        }
+      },
+      {
+        "title": "Awaken the Power",
+        "artist": 2,
+        "metadata": {
+          "album": "Awaken the power",
+          "length": 297,
+          "released": 1513728000,
+          "composer": [
+            "河田貴央"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5lNJrTnmGyHRByNYU53aHO",
+            "youtube": "APoKMSuSXlM"
+          }
+        }
+      },
+      {
+        "title": "CRASH MIND",
+        "artist": 1,
+        "metadata": {
+          "album": "Awaken the power",
+          "length": 260,
+          "released": 1513728000,
+          "composer": [
+            "宮崎 誠"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3nae2NITUTjmQAriOTMKdo",
+            "youtube": "ddgVXZnQt8o"
+          }
+        }
+      },
+      {
+        "title": "DROPOUT!",
+        "artist": 1,
+        "metadata": {
+          "album": "Awaken the power",
+          "length": 237,
+          "released": 1513728000,
+          "composer": [
+            "馬渕直純"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:0sBNo8ePBkb9hKV1qrSWjg",
+            "youtube": "OkXsedymTxc"
+          }
+        }
+      },
+      {
+        "title": "One More Sunshine Story",
+        "artist": 6,
+        "metadata": {
+          "album": "One More Sunshine Story",
+          "length": 272,
+          "released": 1513900800,
+          "streaming": {
+            "spotify": "spotify:track:7h73Xkk2JqVV2bMo0P7x06",
+            "youtube": "jwyBqK_rXYU"
+          }
+        }
+      },
+      {
+        "title": "WATER BLUE NEW WORLD",
+        "artist": 0,
+        "metadata": {
+          "album": "WATER BLUE NEW WORLD/WONDERFUL STORIES",
+          "length": 343,
+          "released": 1516233600,
+          "composer": [
+            "佐伯高志"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:31ENXtNQYS0xIOOmb3Ogjc",
+            "youtube": "fHD4nFHjTOc"
+          }
+        }
+      },
+      {
+        "title": "WONDERFUL STORIES",
+        "artist": 0,
+        "metadata": {
+          "album": "WATER BLUE NEW WORLD/WONDERFUL STORIES",
+          "length": 279,
+          "released": 1516233600,
+          "composer": [
+            "Carlos K."
+          ],
+          "streaming": {
+            "spotify": "spotify:track:0gODhAZpdmxus2pc1B1NRj",
+            "youtube": "Nd_rRH9Fy30"
+          }
+        }
+      },
+      {
+        "title": "おやすみなさん！",
+        "title.ko": "안녕히 주무세여러분!",
+        "artist": 12,
+        "metadata": {
+          "album": "おやすみなさん！",
+          "length": 249,
+          "released": 1516924800,
+          "streaming": {
+            "spotify": "spotify:track:29vpQtliCPSeZGJrY8r375",
+            "youtube": "2fmZqdiTPG4"
+          }
+        }
+      },
+      {
+        "title": "in this unstable world",
+        "artist": 11,
+        "metadata": {
+          "album": "in this unstable world/Pianoforte Monologue",
+          "length": 245,
+          "released": 1519344000,
+          "streaming": {
+            "spotify": "spotify:track:2Oo43sMtzITkBXokmd2KO3",
+            "youtube": "bc0dF6XPeHY"
+          }
+        }
+      },
+      {
+        "title": "Pianoforte Monologue",
+        "artist": 7,
+        "metadata": {
+          "album": "in this unstable world/Pianoforte Monologue",
+          "length": 307,
+          "released": 1519344000,
+          "streaming": {
+            "spotify": "spotify:track:18J1VYmbWcW147rWG1NPLb",
+            "youtube": "uHELX9ELRQQ"
+          }
+        }
+      },
+      {
+        "title": "Beginner's Sailing",
+        "artist": 10,
+        "metadata": {
+          "album": "Beginner's Sailing",
+          "length": 291,
+          "released": 1521763200,
+          "streaming": {
+            "spotify": "spotify:track:40j5Fo7t3iUXMNkIpLyGRE",
+            "youtube": "rBnQNJbxa_Q"
+          }
+        }
+      },
+      {
+        "title": "RED GEM WINK",
+        "artist": 14,
+        "metadata": {
+          "album": "RED GEM WINK/WHITE FIRST LOVE",
+          "length": 296,
+          "released": 1524528000,
+          "streaming": {
+            "spotify": "spotify:track:6puhUOFB5b7CggOnVUufpI",
+            "youtube": "qqMhdF3p4ew"
+          }
+        }
+      },
+      {
+        "title": "WHITE FIRST LOVE",
+        "artist": 9,
+        "metadata": {
+          "album": "RED GEM WINK/WHITE FIRST LOVE",
+          "length": 271,
+          "released": 1524528000,
+          "streaming": {
+            "spotify": "spotify:track:0eTxt9ZSnoccBDd5reFAxK",
+            "youtube": "yIHJ8xBQ6O0"
+          }
+        }
+      },
+      {
+        "title": "New winding road",
+        "artist": 13,
+        "metadata": {
+          "album": "New winding road/さかなかなんだか？",
+          "length": 293,
+          "released": 1527206400,
+          "streaming": {
+            "spotify": "spotify:track:2XnOpXIAQHiZla56j6bdgL",
+            "youtube": "MV_2CLqrc4U"
+          }
+        }
+      },
+      {
+        "title": "さかなかなんだか？",
+        "title.ko": "물고기 카난일카?",
+        "artist": 8,
+        "metadata": {
+          "album": "New winding road/さかなかなんだか？",
+          "length": 289,
+          "released": 1527206400,
+          "streaming": {
+            "spotify": "spotify:track:57fDiwr1ayxeS57PC8r13R",
+            "youtube": "HE7VFFmc1Rs"
+          }
+        }
+      },
+      {
+        "title": "サクラバイバイ",
+        "title.ko": "벛꽃 바이바이",
+        "artist": 3,
+        "metadata": {
+          "album": "サクラバイバイ",
+          "length": 280,
+          "released": 1529625600,
+          "streaming": {
+            "spotify": "spotify:track:5mi3sowkAheZqe8h11omF3",
+            "youtube": "rhhDXqG1ZOk"
+          }
+        }
+      },
+      {
+        "title": "卒業ですね",
+        "title.ko": "졸업이네요",
+        "artist": 4,
+        "metadata": {
+          "released": 1529625600,
+          "streaming": {
+            "spotify": "spotify:track:4RPdmTFVphcUx9Sy1JgIU8",
+            "youtube": "G18GrBZ4wnE"
+          }
+        }
+      },
+      {
+        "title": "Guilty!? Farewell Party",
+        "artist": 5,
+        "metadata": {
+          "album": "Guilty!? Farewell party",
+          "length": 241,
+          "released": 1529625600,
+          "streaming": {
+            "spotify": "spotify:track:5tLunY1D3PqrAV9cIndG1g",
+            "youtube": "g9JHbvuNy_A"
+          }
+        }
+      },
+      {
+        "title": "キセキヒカル",
+        "title.ko": "기적, 빛나다",
+        "artist": 0,
+        "metadata": {
+          "album": "キセキヒカル",
+          "length": 287,
+          "released": 1529625600,
+          "streaming": {
+            "spotify": "spotify:track:0Kp3rDOdbDoGaEcFeI1c1R",
+            "youtube": "KpkjThm33Fs"
+          }
+        }
+      },
+      {
+        "title": "ホップ・ステップ・ワーイ！",
+        "title.ko": "Hop・Step・와이!",
+        "artist": 0,
+        "metadata": {
+          "album": "ホップ・ステップ・ワーイ！",
+          "length": 291,
+          "released": 1530316800,
+          "streaming": {
+            "spotify": "spotify:track:6XYRVscC01h3U1QbVQAK2w",
+            "youtube": "zpVK5vGNDNI"
+          }
+        }
+      },
+      {
+        "title": "ホップ・ステップ・ワーイ！ [CYaRon! Ver.]",
+        "title.ko": "Hop・Step・와이! [CYaRon! Ver.]",
+        "artist": 3,
+        "metadata": {
+          "album": "ホップ・ステップ・ワーイ！",
+          "length": 291,
+          "released": 1530316800,
+          "streaming": {
+            "spotify": "spotify:track:1gjl9pXsom3jEi6drMjlcG",
+            "youtube": "gSsTtbe8bnw"
+          }
+        }
+      },
+      {
+        "title": "ホップ・ステップ・ワーイ！  [AZALEA Ver.]",
+        "title.ko": "Hop・Step・와이! [AZALEA Ver.]",
+        "artist": 4,
+        "metadata": {
+          "album": "ホップ・ステップ・ワーイ！",
+          "length": 291,
+          "released": 1530316800,
+          "streaming": {
+            "spotify": "spotify:track:74qpyMdTVVs57EVMsgFCn9",
+            "youtube": "EAsyHX-H8fU"
+          }
+        }
+      },
+      {
+        "title": "ホップ・ステップ・ワーイ！ [Guilty Kiss Ver.]",
+        "title.ko": "Hop・Step・와이! [Guilty Kiss Ver.]",
+        "artist": 5,
+        "metadata": {
+          "album": "ホップ・ステップ・ワーイ！",
+          "length": 291,
+          "released": 1530316800,
+          "streaming": {
+            "spotify": "spotify:track:0yLAi0lPVGp6P1QCiu14hB",
+            "youtube": "evu0uohx_Gs"
+          }
+        }
+      },
+      {
+        "title": "Thank you, FRIENDS!!",
+        "artist": 0,
+        "metadata": {
+          "album": "Thank you, FRIENDS!!",
+          "length": 384,
+          "released": 1533081600,
+          "composer": [
+            "イワツボコーダイ",
+            "TAKAROT"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:72s4FuzWHynj4cMDNccvhD",
+            "youtube": "t_IThrVKPyE"
+          }
+        }
+      },
+      {
+        "title": "No.10",
+        "artist": 0,
+        "metadata": {
+          "album": "Thank you, FRIENDS!!",
+          "length": 331,
+          "released": 1533081600,
+          "composer": [
+            "Akira Sunset"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1Akys4ddNICtUgEMWyfaX7",
+            "youtube": "kv-Zp30IC8A"
+          }
+        }
+      },
+      {
+        "title": "ハジマリロード",
+        "title.ko": "시작의 길",
+        "artist": [
+          11,
+          12,
+          14
+        ],
+        "metadata": {
+          "album": "ハジマリロード",
+          "length": 265,
+          "released": 1543017600,
+          "streaming": {
+            "spotify": "spotify:track:2jyZYJ9E6WKjVuitaBAUu6",
+            "youtube": "YFVtamSoSMw"
+          }
+        }
+      },
+      {
+        "title": "Marine Border Parasol",
+        "artist": [
+          6,
+          7,
+          10
+        ],
+        "metadata": {
+          "album": "Marine Border Parasol",
+          "length": 295,
+          "released": 1543017600,
+          "streaming": {
+            "spotify": "spotify:track:68U6Vfl1uoihmb5eM9BxIt",
+            "youtube": "uLdLl1DxwWc"
+          }
+        }
+      },
+      {
+        "title": "予測不可能Driving!",
+        "title.ko": "예측 불가능 Driving!",
+        "artist": [
+          8,
+          9,
+          13
+        ],
+        "metadata": {
+          "album": "予測不可能Driving!",
+          "length": 228,
+          "released": 1543017600,
+          "streaming": {
+            "spotify": "spotify:track:3koLn2DbcEe3yanVBtfx63",
+            "youtube": "GD4aGP2nmyg"
+          }
+        }
+      },
+      {
+        "title": "僕らの走ってきた道は…",
+        "title.ko": "우리가 달려온 길은…",
+        "artist": 0,
+        "metadata": {
+          "album": "僕らの走ってきた道は…/Next SPARKLING!!",
+          "length": 329,
+          "released": 1548201600,
+          "composer": [
+            "EFFY (FirstCall)"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2Nl2TyIotphMyrxgRSRlz8",
+            "youtube": "MlOtjWVSsiI"
+          }
+        }
+      },
+      {
+        "title": "Next SPARKLING!!",
+        "artist": 0,
+        "metadata": {
+          "album": "僕らの走ってきた道は…/Next SPARKLING!!",
+          "length": 389,
+          "released": 1548201600,
+          "composer": [
+            "Carlos K."
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6S7xc5bgVmWRwpc5HKgXNm",
+            "youtube": "l5HblElvFSE"
+          }
+        }
+      },
+      {
+        "title": "逃走迷走メビウスループ",
+        "title.ko": "도망 황망 뫼비우스의 띠",
+        "artist": [
+          8,
+          9,
+          13
+        ],
+        "metadata": {
+          "album": "逃走迷走メビウスループ/Hop? Stop? Nonstop!",
+          "length": 329,
+          "released": 1548806400,
+          "composer": [
+            "山口朗彦"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4ZhuOJQnmDqHqUvo0aPsY1",
+            "youtube": "WRVyHfZXGHY"
+          }
+        }
+      },
+      {
+        "title": "Hop? Stop? Nonstop!",
+        "artist": 0,
+        "metadata": {
+          "album": "逃走迷走メビウスループ/Hop? Stop? Nonstop!",
+          "length": 224,
+          "released": 1548806400,
+          "composer": [
+            "Keisuke Koyama",
+            "Kanata Okajima"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5TnkzOiLDOKDvUNvQ2KiiR",
+            "youtube": "fzg3sQG9b1E"
+          }
+        }
+      },
+      {
+        "title": "Believe Again",
+        "artist": 1,
+        "metadata": {
+          "album": "Believe again/Brightest Melody/Over The Next Rainbow",
+          "length": 282,
+          "released": 1549411200,
+          "composer": [
+            "河田貴央"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3aYg7E9EixRCtQQX5SZuat",
+            "youtube": "Zr7I5l-XPz8"
+          }
+        }
+      },
+      {
+        "title": "Brightest Melody",
+        "artist": 0,
+        "metadata": {
+          "album": "Believe again/Brightest Melody/Over The Next Rainbow",
+          "length": 261,
+          "released": 1549411200,
+          "composer": [
+            "光増ハジメ (FirstCall)"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3ieRKdHq1aOTFZ7xGEHzHC",
+            "youtube": "9FZx2gPq4Fg"
+          }
+        }
+      },
+      {
+        "title": "Over The Next Rainbow",
+        "artist": 2,
+        "metadata": {
+          "album": "Believe again/Brightest Melody/Over The Next Rainbow",
+          "length": 299,
+          "released": 1549411200,
+          "composer": [
+            "Kanata Okajima",
+            "TAKAROT"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3bSp8XRroNBn1YCy7IaHRa",
+            "youtube": "Q3HBLj90OTk"
+          }
+        }
+      },
+      {
+        "title": "Jump up HIGH!!",
+        "artist": 0,
+        "metadata": {
+          "album": "Jump up HIGH!!",
+          "length": 280,
+          "released": 1561852800,
+          "composer": [
+            "Kanata Okajima",
+            "KOUDAI IWATSUBO",
+            "TAKAROT"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3SHwu0Cb4Uz72bH1xhKefG",
+            "youtube": "NziEaNeMekE"
+          }
+        }
+      },
+      {
+        "title": "Jump up HIGH!! (CYaRon! Ver.)",
+        "artist": 0,
+        "metadata": {
+          "album": "Jump up HIGH!!",
+          "length": 280,
+          "released": 1561852800,
+          "composer": [
+            "TAKAROT",
+            "KOUDAI IWATSUBO",
+            "Kanata Okajima"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2ykgS4k9SoYG3ZjvALBI14",
+            "youtube": "O1gllrl79Vc"
+          }
+        }
+      },
+      {
+        "title": "Jump up HIGH!! (AZALEA Ver.)",
+        "artist": 0,
+        "metadata": {
+          "album": "Jump up HIGH!!",
+          "length": 280,
+          "released": 1561852800,
+          "composer": [
+            "TAKAROT",
+            "KOUDAI IWATSUBO",
+            "Kanata Okajima"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6T5mQ3qiAvqJgBErVfPlda",
+            "youtube": "BIUGlO_8M14"
+          }
+        }
+      },
+      {
+        "title": "Jump up HIGH!! (Guilty Kiss Ver.)",
+        "artist": 0,
+        "metadata": {
+          "album": "Jump up HIGH!!",
+          "length": 280,
+          "released": 1561852800,
+          "composer": [
+            "KOUDAI IWATSUBO",
+            "TAKAROT",
+            "Kanata Okajima"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:7IW6i3VDqgLPO4o4nCrXrN",
+            "youtube": "tQJ6H9p4t5A"
+          }
+        }
+      },
+      {
+        "title": "\"I-n-g, I Try!!\"",
+        "artist": 0,
+        "metadata": {
+          "album": "i-n-g, I TRY!!",
+          "length": 272,
+          "released": 1564099200,
+          "streaming": {
+            "spotify": "spotify:track:6CkEJ9q4WK8DWHP95fR5h2",
+            "youtube": "n9pGxOLCVtY"
+          }
+        }
+      },
+      {
+        "title": "冒険Type A, B, C!!",
+        "title.ko": "모험 타입 A, B, C!!",
+        "artist": 0,
+        "metadata": {
+          "album": "冒険Type A, B, C!!",
+          "length": 279,
+          "released": 1564099200,
+          "streaming": {
+            "spotify": "spotify:track:2WqRmvz8Yye24JUNV9aYPo",
+            "youtube": "b0cRbn3p6II"
+          }
+        }
+      },
+      {
+        "title": "未体験HORIZON",
+        "title.ko": "미체험 HORIZON",
+        "artist": 0,
+        "metadata": {
+          "album": "未体験HORIZON",
+          "length": 320,
+          "released": 1569369600,
+          "streaming": {
+            "spotify": "spotify:track:1m7fzl91xsEJq4FS4egOnU",
+            "youtube": "aL_3dVRDLPU"
+          }
+        }
+      },
+      {
+        "title": "Deep Resonance",
+        "artist": 0,
+        "metadata": {
+          "album": "未体験HORIZON",
+          "length": 313,
+          "released": 1569369600,
+          "streaming": {
+            "spotify": "spotify:track:73Dktd4JIt6Aw6bIhDbSgn",
+            "youtube": "_csrXZNMEIQ"
+          }
+        }
+      },
+      {
+        "title": "Dance with Minotaurus",
+        "artist": 0,
+        "metadata": {
+          "album": "未体験HORIZON",
+          "length": 300,
+          "released": 1569369600,
+          "streaming": {
+            "spotify": "spotify:track:1JxplhTPVobgdxEV685vde",
+            "youtube": "6FttCxKBHQs"
+          }
+        }
+      },
+      {
+        "title": "KOKORO Magic “A to Z”",
+        "artist": 0,
+        "metadata": {
+          "album": "KOKORO Magic \"A to Z\"",
+          "length": 276,
+          "released": 1572393600,
+          "composer": [
+            "EFFY (FirstCall)"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:41AYhoiB3yvaFiEjnRUnrN",
+            "youtube": "nE_I45s7Fhw"
+          }
+        }
+      },
+      {
+        "title": "Wake up, Challenger!!",
+        "artist": 0,
+        "metadata": {
+          "album": "KOKORO Magic \"A to Z\"",
+          "length": 330,
+          "released": 1572393600,
+          "composer": [
+            "河田貴央"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6fgW8tuVy1UEcoFqijjy99",
+            "youtube": "yRZFv04WEec"
+          }
+        }
+      },
+      {
+        "title": "New Romantic Sailors",
+        "artist": 5,
+        "metadata": {
+          "album": "New Romantic Sailors",
+          "length": 283,
+          "released": 1574812800,
+          "composer": [
+            "杉山勝彦",
+            "ulala"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3JQFG9dQs2VGW6bJPDts3A",
+            "youtube": "0qAaLBbXE-c"
+          }
+        }
+      },
+      {
+        "title": "Love Pulsar",
+        "artist": 5,
+        "metadata": {
+          "album": "New Romantic Sailors",
+          "length": 270,
+          "released": 1574812800,
+          "composer": [
+            "渡辺未来"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1RC5cSSGRNyYMFCuvCEEt5",
+            "youtube": "ZwO0QFpH5Eg"
+          }
+        }
+      },
+      {
+        "title": "Phantom Rocket Adventure",
+        "artist": 5,
+        "metadata": {
+          "album": "New Romantic Sailors",
+          "length": 217,
+          "released": 1574812800,
+          "composer": [
+            "本多友紀 (Arte Refact)"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:7vuXvTDHpcnviKTzMDptNP",
+            "youtube": "qr-uy1qL43E"
+          }
+        }
+      },
+      {
+        "title": "Braveheart Coaster",
+        "artist": 3,
+        "metadata": {
+          "album": "Braveheart Coaster",
+          "length": 266,
+          "released": 1575417600,
+          "composer": [
+            "高田 暁"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3XkAIofk0JgOXrt41CV5U6",
+            "youtube": "x5Jqvn1mFK4"
+          }
+        }
+      },
+      {
+        "title": "CHANGELESS",
+        "artist": 3,
+        "metadata": {
+          "album": "Braveheart Coaster",
+          "length": 310,
+          "released": 1575417600,
+          "composer": [
+            "前口 渉"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:11L8jsLlG0Ml8BBqdZxWqh",
+            "youtube": "zw6ag0xKJhI"
+          }
+        }
+      },
+      {
+        "title": "コドク・テレポート",
+        "title.ko": "고독・텔레포트",
+        "artist": 3,
+        "metadata": {
+          "album": "Braveheart Coaster",
+          "length": 252,
+          "released": 1575417600,
+          "composer": [
+            "原田 篤 (Arte Refact)"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:7drkoBPx9SHgtXOuFjD8eb",
+            "youtube": "Tg50XHWos0A"
+          }
+        }
+      },
+      {
+        "title": "Amazing Travel DNA",
+        "artist": 4,
+        "metadata": {
+          "album": "Amazing Travel DNA",
+          "length": 256,
+          "released": 1576022400,
+          "composer": [
+            "山田竜平"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6b5SwxLObqfrx9ewIU3UWU",
+            "youtube": "idD6_8oXQ6E"
+          }
+        }
+      },
+      {
+        "title": "空中恋愛論",
+        "title.ko": "공중연애론",
+        "artist": 4,
+        "metadata": {
+          "album": "Amazing Travel DNA",
+          "length": 223,
+          "released": 1576022400,
+          "composer": [
+            "Kohei by SIMONSAYZ"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:7HQAR5V6SQC8SGfimUpFYD",
+            "youtube": "bI7lgNPf3ok"
+          }
+        }
+      },
+      {
+        "title": "メイズセカイ",
+        "title.ko": "미로 세계",
+        "artist": 4,
+        "metadata": {
+          "album": "Amazing Travel DNA",
+          "length": 272,
+          "released": 1576022400,
+          "composer": [
+            "黒川陽介"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6sfCZBZbomvxfp2l15eumu",
+            "youtube": "-vPaA1UqF3Y"
+          }
+        }
+      },
+      {
+        "title": "シャゼリア☆キッス☆ダダンダーン",
+        "title.ko": "샤젤리아☆키스☆다당당",
+        "artist": 4,
+        "metadata": {
+          "album": "シャゼリア☆キッス☆ダダンダーン",
+          "length": 306,
+          "released": 1588896000,
+          "composer": [
+            "河田貴央"
+          ]
+        }
+      },
+      {
+        "title": "Fantastic Departure!",
+        "artist": 0,
+        "metadata": {
+          "album": "Fantastic Departure!",
+          "length": 328,
+          "released": 1595376000,
+          "composer": [
+            "Kanata Okajima",
+            "MEG"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6x1oBL3E8rAzZvxvDvb2vw",
+            "youtube": "JbvoEhrNwTw"
+          }
+        }
+      },
+      {
+        "title": "Aqours Pirates Desire",
+        "artist": 0,
+        "metadata": {
+          "album": "Fantastic Departure!",
+          "length": 257,
+          "released": 1595376000,
+          "composer": [
+            "TAKAROT",
+            "イワツボコーダイ"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5GnyRVCuIT39RsmwP0NwFA",
+            "youtube": "MQ0pWmEMZZQ"
+          }
+        }
+      },
+      {
+        "title": "Never giving up!",
+        "artist": 6,
+        "metadata": {
+          "album": "LoveLive! Sunshine!! Takami Chika First Solo Concert Album ～One More Sunshine Story～",
+          "length": 235,
+          "released": 1596240000,
+          "composer": [
+            "EFFY (FirstCall)"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3wowUlcFYoM9CvSG0U7U92",
+            "youtube": "fj0RDiCZwIk"
+          }
+        }
+      },
+      {
+        "title": "Dazzling White Town",
+        "artist": 1,
+        "metadata": {
+          "album": "Dazzling White Town",
+          "length": 263,
+          "released": 1597795200,
+          "composer": [
+            "渡辺和紀"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:211qJsL5CTxWKFaYwHQRpo",
+            "youtube": "3Fw7GqhndZo"
+          }
+        }
+      },
+      {
+        "title": "Lonely Snow Planet",
+        "artist": 1,
+        "metadata": {
+          "album": "Dazzling White Town",
+          "length": 256,
+          "released": 1597795200,
+          "composer": [
+            "馬渕直純"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4oYq3ZBW4v34rQbdzMrWab",
+            "youtube": "_gsPSro8ugo"
+          }
+        }
+      },
+      {
+        "title": "After The Rain",
+        "artist": 1,
+        "metadata": {
+          "album": "Dazzling White Town",
+          "length": 272,
+          "released": 1597795200,
+          "composer": [
+            "R・O・N"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1nzjVytuj9ctrHGpctCAIV",
+            "youtube": "qi1Z8PYbCys"
+          }
+        }
+      },
+      {
+        "title": "JIMO-AI Dash!",
+        "artist": 0,
+        "metadata": {
+          "album": "Aqours 5th Anniversary 地元愛！Take Me Higher Project Theme Song",
+          "length": 276,
+          "released": 1598400000,
+          "streaming": {
+            "spotify": "spotify:track:3UoWB25H7bsEjB622Caz2s",
+            "youtube": "x-vJElhYbsU"
+          }
+        }
+      },
+      {
+        "title": "PURE PHRASE",
+        "artist": 7,
+        "metadata": {
+          "album": "LoveLive! Sunshine!! Sakurauchi Riko First Solo Concert Album ～Pianoforte Monologue～",
+          "length": 310,
+          "released": 1600473600,
+          "composer": [
+            "山口雄太"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2oZ6e3TmmuFU0p2QowptUo",
+            "youtube": "eguOyIWfq1M"
+          }
+        }
+      },
+      {
+        "title": "コットンキャンディえいえいおー!",
+        "title.ko": "코튼 캔디 에이 에이 오!",
+        "artist": 14,
+        "metadata": {
+          "album": "LoveLive! Sunshine!! Kurosawa Ruby First Solo Concert Album ～RED GEM WINK～",
+          "length": 258,
+          "released": 1600646400,
+          "composer": [
+            "TAKAROT"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:10N2sb4vrtmSs5DeZyV5c8",
+            "youtube": "wvA6_u808pk"
+          }
+        }
+      },
+      {
+        "title": "Future flight",
+        "artist": 0,
+        "metadata": {
+          "album": "ラブライブ!サンシャイン!! Aqours CHRONICLE (2015～2017)",
+          "length": 258,
+          "released": 1600646400,
+          "streaming": {
+            "spotify": "spotify:track:3YpXfBk3mZrGAfj0Wb343C",
+            "youtube": "t-zRteXNP_U"
+          }
+        }
+      },
+      {
+        "title": "Misty Frosty Love",
+        "artist": [
+          7,
+          10
+        ],
+        "metadata": {
+          "album": "デュオトリオコレクションCD VOL.2 〜WINTER VACATION〜",
+          "length": 297,
+          "released": 1607472000,
+          "streaming": {
+            "spotify": "spotify:track:3AyAdFgfT5jEHiZr45Gijq",
+            "youtube": "_aKtQX0Tax8"
+          }
+        }
+      },
+      {
+        "title": "涙が雪になる前に",
+        "title.ko": "눈물이 눈이 되기 전에",
+        "artist": [
+          8,
+          13
+        ],
+        "metadata": {
+          "album": "デュオトリオコレクションCD VOL.2 〜WINTER VACATION〜",
+          "length": 263,
+          "released": 1607472000,
+          "streaming": {
+            "spotify": "spotify:track:6g6nsxbKZvG3V79aCJRDB6",
+            "youtube": "TdBaUmBhYJE"
+          }
+        }
+      },
+      {
+        "title": "キモチもユメも一緒だね！",
+        "title.ko": "마음도 꿈도 함께네!",
+        "artist": [
+          12,
+          14
+        ],
+        "metadata": {
+          "album": "デュオトリオコレクションCD VOL.2 〜WINTER VACATION〜",
+          "length": 284,
+          "released": 1607472000,
+          "streaming": {
+            "spotify": "spotify:track:0NOjMAor1xOsHaXu7dtwYS",
+            "youtube": "ZMwXGDNC4i8"
+          }
+        }
+      },
+      {
+        "title": "Party! Party! PaPaPaParty!",
+        "artist": [
+          6,
+          9,
+          11
+        ],
+        "metadata": {
+          "album": "デュオトリオコレクションCD VOL.2 〜WINTER VACATION〜",
+          "length": 269,
+          "released": 1607472000,
+          "streaming": {
+            "spotify": "spotify:track:671VDfkihffwDZBz56nZ5P",
+            "youtube": "OnSXOwljE28"
+          }
+        }
+      },
+      {
+        "title": "Perfect SEKAI",
+        "artist": 9,
+        "metadata": {
+          "album": "WHITE FIRST LOVE [Disc 2]",
+          "length": 266,
+          "released": 1609459200,
+          "streaming": {
+            "spotify": "spotify:track:4pgbiFTfLIuWcqgkkGUOlJ",
+            "youtube": "yIHJ8xBQ6O0"
+          }
+        }
+      },
+      {
+        "title": "もっとね!",
+        "title.ko": "조금 더!",
+        "artist": 8,
+        "metadata": {
+          "album": "LoveLive! Sunshine!! Matsuura Kanan First Solo Concert Album: SAKANAKANANDAKA?",
+          "length": 229,
+          "released": 1612915200,
+          "streaming": {
+            "spotify": "spotify:track:3vXJrJULk98bQ4dG4WvqNY",
+            "youtube": "LnX0Cb5xvS0"
+          }
+        }
+      },
+      {
+        "title": "あこがれランララン",
+        "title.ko": "동경 란라란",
+        "artist": 12,
+        "metadata": {
+          "released": 1614816000,
+          "streaming": {
+            "spotify": "spotify:track:4nzacsf8fB6FFUocgF1dc0",
+            "youtube": "xP54Jr0SFLA"
+          }
+        }
+      },
+      {
+        "title": "smile smile ship Start!",
+        "artist": 0,
+        "metadata": {
+          "album": "smile smile ship Start!",
+          "length": 279,
+          "released": 1617148800,
+          "streaming": {
+            "spotify": "spotify:track:0rfYpGSgqQLzEc2DHeWY5a",
+            "youtube": "ouk6eSQisQ4"
+          }
+        }
+      },
+      {
+        "title": "心の羽よ君へ飛んでけ！",
+        "title.ko": "마음의 날개여 너에게 날아가라!",
+        "artist": 0,
+        "metadata": {
+          "album": "smile smile ship Start!",
+          "length": 286,
+          "released": 1617148800,
+          "streaming": {
+            "spotify": "spotify:track:22lBQcaqutSbyXNHdEK9zn",
+            "youtube": "nghv3ckywLI"
+          }
+        }
+      },
+      {
+        "title": "突然GIRL",
+        "title.ko": "돌연 GIRL",
+        "artist": 10,
+        "metadata": {
+          "album": "LoveLive! Sunshine!! Watanabe You First Solo Concert Album 〜Beginner's Sailing〜",
+          "length": 295,
+          "bpm": 162,
+          "released": 1618617600,
+          "composer": [
+            "渡辺泰司"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:00uHIFDJKDboxdU0rHyeSv",
+            "youtube": "_qiUkzWeAPM"
+          }
+        }
+      },
+      {
+        "title": "Shiny Racers",
+        "artist": 13,
+        "metadata": {
+          "album": "LoveLive! Sunshine!! Ohara Mari First Solo Concert Album 〜New winding road〜",
+          "length": 218,
+          "bpm": 180,
+          "released": 1623542400,
+          "composer": [
+            "川島弘光"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1j28e7BX7hmf0VSiemwKPT",
+            "youtube": "hmIV6Msh_sU"
+          }
+        }
+      },
+      {
+        "title": "タテホコツバサ",
+        "title.ko": "모순의 날개",
+        "artist": 11,
+        "metadata": {
+          "album": "LoveLive! Sunshine!! Tsushima Yoshiko First Solo Concert Album 〜in this unstable world〜",
+          "length": 253,
+          "bpm": 179,
+          "released": 1626134400,
+          "composer": [
+            "渡辺和紀"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3F3CNNz4exyIXjsAMNFXnx",
+            "youtube": "mMw0aUfexrg"
+          }
+        }
+      }
+    ],
+    [
+      {
+        "title": "TOKIMEKI Runners",
+        "artist": 0,
+        "metadata": {
+          "album": "TOKIMEKI Runners",
+          "length": 276,
+          "streaming": {
+            "spotify": "spotify:track:2wI8kQ2psvPoMqqlKLusJ1",
+            "youtube": "ToT2O8wp0Jo"
+          }
+        }
+      },
+      {
+        "title": "夢への一歩",
+        "title.ko": "꿈으로의 한 걸음",
+        "artist": 4,
+        "metadata": {
+          "album": "TOKIMEKI Runners",
+          "length": 288,
+          "streaming": {
+            "spotify": "spotify:track:3dg76XVsizSIGdyUG6XXvt",
+            "youtube": "suWk33wqGrs"
+          }
+        }
+      },
+      {
+        "title": "ダイアモンド",
+        "title.ko": "다이아몬드",
+        "artist": 5,
+        "metadata": {
+          "album": "TOKIMEKI Runners",
+          "length": 234,
+          "streaming": {
+            "spotify": "spotify:track:0UAqHawQbQjCvDCYonrZzc",
+            "youtube": "dNYPwvpqAuw"
+          }
+        }
+      },
+      {
+        "title": "あなたの理想のヒロイン",
+        "title.ko": "당신의 이상적인 히로인",
+        "artist": 6,
+        "metadata": {
+          "album": "TOKIMEKI Runners",
+          "length": 326,
+          "streaming": {
+            "spotify": "spotify:track:2RbkLmTbz2dGlLkzgDAUlu",
+            "youtube": "WIqYLm9EH6I"
+          }
+        }
+      },
+      {
+        "title": "Starlight",
+        "artist": 7,
+        "metadata": {
+          "album": "TOKIMEKI Runners",
+          "length": 225,
+          "streaming": {
+            "spotify": "spotify:track:2H8qziW7IGOPO3yXAhk9o4",
+            "youtube": "1SpOixerr44"
+          }
+        }
+      },
+      {
+        "title": "めっちゃGoing!!",
+        "title.ko": "엄청 Going!!",
+        "artist": 8,
+        "metadata": {
+          "album": "TOKIMEKI Runners",
+          "length": 289,
+          "streaming": {
+            "spotify": "spotify:track:1zejfjJaa1blkQzijxLBeN",
+            "youtube": "zweAj9PDuo4"
+          }
+        }
+      },
+      {
+        "title": "眠れる森に行きたいな",
+        "title.ko": "잠자는 숲 속으로 가고 싶어",
+        "artist": 9,
+        "metadata": {
+          "album": "TOKIMEKI Runners",
+          "length": 204,
+          "streaming": {
+            "spotify": "spotify:track:24CUT6eQMpK66kZexYJdhh",
+            "youtube": "wc2QLrW7Gqg"
+          }
+        }
+      },
+      {
+        "title": "CHASE!",
+        "artist": 10,
+        "metadata": {
+          "album": "TOKIMEKI Runners",
+          "length": 259,
+          "streaming": {
+            "spotify": "spotify:track:0pxXNuhsLLq6lfj1ZegUCK",
+            "youtube": "5R1l0xrtVOc"
+          }
+        }
+      },
+      {
+        "title": "Evergreen",
+        "artist": 11,
+        "metadata": {
+          "album": "TOKIMEKI Runners",
+          "length": 296,
+          "streaming": {
+            "spotify": "spotify:track:6IR8MKTOD0skW9FKZKl3kH",
+            "youtube": "AQAYnluAxd8"
+          }
+        }
+      },
+      {
+        "title": "ドキピポ☆エモーション",
+        "title.ko": "도키피포☆이모션",
+        "artist": 12,
+        "metadata": {
+          "album": "TOKIMEKI Runners",
+          "length": 270,
+          "streaming": {
+            "spotify": "spotify:track:2ZJEnx3d1exXxVpxbD0DaJ",
+            "youtube": "Otar-6a710Y"
+          }
+        }
+      },
+      {
+        "title": "Love U my friends",
+        "artist": 0,
+        "metadata": {
+          "album": "Love U my friends",
+          "length": 240,
+          "streaming": {
+            "spotify": "spotify:track:3obgNWJjhn2P4X1jf69HoK",
+            "youtube": "fNEuJHgPMtM"
+          }
+        }
+      },
+      {
+        "title": "開花宣言",
+        "title.ko": "개화선언",
+        "artist": 4,
+        "metadata": {
+          "album": "Love U my friends",
+          "length": 259,
+          "streaming": {
+            "spotify": "spotify:track:2I2gxRtOhtaghM4kmQbFYH",
+            "youtube": "EBnpWRCONnM"
+          }
+        }
+      },
+      {
+        "title": "☆ワンダーランド☆",
+        "title.ko": "☆원더랜드☆",
+        "artist": 5,
+        "metadata": {
+          "album": "Love U my friends",
+          "length": 185,
+          "streaming": {
+            "spotify": "spotify:track:4Pxuo9SNT3CuNNd1WdOjIB",
+            "youtube": "01kjQV-7fQQ"
+          }
+        }
+      },
+      {
+        "title": "オードリ",
+        "title.ko": "오드리",
+        "artist": 6,
+        "metadata": {
+          "album": "Love U my friends",
+          "length": 235,
+          "streaming": {
+            "spotify": "spotify:track:68yOpLc4Y0FxzZoxkTqioh",
+            "youtube": "_D8EIlJi7wE"
+          }
+        }
+      },
+      {
+        "title": "Wish",
+        "artist": 7,
+        "metadata": {
+          "album": "Love U my friends",
+          "length": 310,
+          "streaming": {
+            "spotify": "spotify:track:6zl2VIj9NgGv0vcXhstEPV",
+            "youtube": "UgVSlQy3CfA"
+          }
+        }
+      },
+      {
+        "title": "友 & 愛",
+        "title.ko": "친구 & 사랑",
+        "artist": 8,
+        "metadata": {
+          "album": "Love U my friends",
+          "length": 253,
+          "streaming": {
+            "spotify": "spotify:track:2hIkcuWgKOqeUtUcu8DKay",
+            "youtube": "lo3OB-a7TCg"
+          }
+        }
+      },
+      {
+        "title": "My Own Fairy-Tale",
+        "artist": 9,
+        "metadata": {
+          "album": "Love U my friends",
+          "length": 281,
+          "streaming": {
+            "spotify": "spotify:track:5TKgniNeHWwaH1pf5QV8nA",
+            "youtube": "a-WarIBtd3w"
+          }
+        }
+      },
+      {
+        "title": "MELODY",
+        "artist": 10,
+        "metadata": {
+          "album": "Love U my friends",
+          "length": 270,
+          "streaming": {
+            "spotify": "spotify:track:6DmIItjA98dekA0MvIeiHC",
+            "youtube": "PvVgqYSsQ2Y"
+          }
+        }
+      },
+      {
+        "title": "声繋ごうよ",
+        "title.ko": "목소리를 잇자",
+        "artist": 11,
+        "metadata": {
+          "album": "Love U my friends",
+          "length": 261,
+          "streaming": {
+            "spotify": "spotify:track:2wu07j9FHCuZ99fRfbjnK7",
+            "youtube": "gIBdVbN5QKs"
+          }
+        }
+      },
+      {
+        "title": "テレテレパシー",
+        "title.ko": "텔레텔레파시",
+        "artist": 12,
+        "metadata": {
+          "album": "Love U my friends",
+          "length": 253,
+          "streaming": {
+            "spotify": "spotify:track:1mMPqcCOJjvWOjBcgNZNdL",
+            "youtube": "KZ0Wr3UIvMw"
+          }
+        }
+      },
+      {
+        "title": "SUPER NOVA",
+        "artist": 1,
+        "metadata": {
+          "album": "SUPER NOVA",
+          "length": 254,
+          "streaming": {
+            "spotify": "spotify:track:4AN5xcopsmXq2JSF1SNHEz",
+            "youtube": "dso45gIdbjA"
+          }
+        }
+      },
+      {
+        "title": "Love Triangle",
+        "artist": 1,
+        "metadata": {
+          "album": "SUPER NOVA",
+          "length": 253,
+          "streaming": {
+            "spotify": "spotify:track:5xzlhflKSdWND9ebn7rBDw",
+            "youtube": "WBETX2ONF8w"
+          }
+        }
+      },
+      {
+        "title": "Dream Land!Dream World!",
+        "artist": 2,
+        "metadata": {
+          "album": "Dream Land!Dream World!",
+          "length": 232,
+          "streaming": {
+            "spotify": "spotify:track:7qpVKG6LJb1OORejlgkN9b",
+            "youtube": "TRzHibBAFJs"
+          }
+        }
+      },
+      {
+        "title": "Cheer for you!!",
+        "artist": 2,
+        "metadata": {
+          "album": "Dream Land!Dream World!",
+          "length": 219,
+          "streaming": {
+            "spotify": "spotify:track:3IBLu2lUtOtuXEbh20H7Y0",
+            "youtube": "8EoUknt_Ji4"
+          }
+        }
+      },
+      {
+        "title": "Sing & Smile!!",
+        "artist": 3,
+        "metadata": {
+          "album": "Sing & Smile!!",
+          "length": 282,
+          "streaming": {
+            "spotify": "spotify:track:305C9BYvdU0bLNfMI3bhPw",
+            "youtube": "9SEiiwiiha4"
+          }
+        }
+      },
+      {
+        "title": "Beautiful Moonlight",
+        "artist": 3,
+        "metadata": {
+          "album": "Sing & Smile!!",
+          "length": 239,
+          "streaming": {
+            "spotify": "spotify:track:7Ld5pHKOgTWFAwmAx525Lv",
+            "youtube": "CQdEPi9UJvY"
+          }
+        }
+      },
+      {
+        "title": "無敵級*ビリーバー",
+        "title.ko": "무적급*빌리버",
+        "artist": 0,
+        "metadata": {
+          "album": "無敵級*ビリーバー",
+          "length": 245,
+          "streaming": {
+            "spotify": "spotify:track:4fwvtGCkTjHfgFvati4kJu",
+            "youtube": "-Li6HT1mv0U"
+          }
+        }
+      },
+      {
+        "title": "未来ハーモニー",
+        "title.ko": "미래 하모니",
+        "artist": 0,
+        "metadata": {
+          "album": "無敵級*ビリーバー",
+          "length": 249,
+          "streaming": {
+            "spotify": "spotify:track:1T0I1kD2JNfgqB1oFQWlQD",
+            "youtube": "H2VuAyjWDyU"
+          }
+        }
+      },
+      {
+        "title": "Say Good-Bye 涙",
+        "title.ko": "Say Good-Bye 눈물",
+        "artist": 4,
+        "metadata": {
+          "album": "Just Believe!!!",
+          "length": 241,
+          "composer": [
+            "Akira Sunset"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3SI3r4xZo4wawWw0iv9p5K",
+            "youtube": "vkQ3UdLk3hw"
+          }
+        }
+      },
+      {
+        "title": "Margaret",
+        "artist": 5,
+        "metadata": {
+          "album": "Just Believe!!!",
+          "length": 258,
+          "composer": [
+            "Carlos K"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2dIwAYBeMTnszZIQzDQrXM",
+            "youtube": "zmTIs9o7WII"
+          }
+        }
+      },
+      {
+        "title": "やがてひとつの物語",
+        "title.ko": "이윽고 하나의 이야기",
+        "artist": 6,
+        "metadata": {
+          "album": "Just Believe!!!",
+          "length": 260,
+          "composer": [
+            "月見草"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:0EoTGDUKh0Se9mChgBghmp",
+            "youtube": "JvURKZQdCDs"
+          }
+        }
+      },
+      {
+        "title": "Fire Bird",
+        "artist": 7,
+        "metadata": {
+          "album": "Just Believe!!!",
+          "length": 237,
+          "composer": [
+            "Carlos K"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:54SdBdxoc2lbBh1bmPgf9o",
+            "youtube": "8bjQg-RUiRc"
+          }
+        }
+      },
+      {
+        "title": "楽しいの天才",
+        "title.ko": "즐거움의 천재",
+        "artist": 8,
+        "metadata": {
+          "album": "Just Believe!!!",
+          "length": 241,
+          "composer": [
+            "Carlos K",
+            "Akira Sunset"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6BR9SPM7tKuD7wGOkx4CYd",
+            "youtube": "ZnyCUODvfKQ"
+          }
+        }
+      },
+      {
+        "title": "Märchen Star",
+        "artist": 9,
+        "metadata": {
+          "album": "Just Believe!!!",
+          "length": 288,
+          "composer": [
+            "Ryota Saito",
+            "Diz"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:7chCaPHPbAtQJ1ldS9gE6R",
+            "youtube": "4PhvNBMo9iY"
+          }
+        }
+      },
+      {
+        "title": "LIKE IT! LOVE IT!",
+        "artist": 10,
+        "metadata": {
+          "album": "Just Believe!!!",
+          "length": 261,
+          "composer": [
+            "Hiroki Sagawa",
+            "鈴木まなか",
+            "要田健"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4PeeXkEdUeIucB7kbcp2u9",
+            "youtube": "RINkOGcXJKQ"
+          }
+        }
+      },
+      {
+        "title": "哀温ノ詩",
+        "title.ko": "애온의 시",
+        "artist": 11,
+        "metadata": {
+          "album": "Just Believe!!!",
+          "length": 258,
+          "composer": [
+            "浦島健太",
+            "山本匠"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3Qms7SJJWR6vjxsrAJb6n6",
+            "youtube": "cbmJLrkdv3c"
+          }
+        }
+      },
+      {
+        "title": "アナログハート",
+        "title.ko": "아날로그 하트",
+        "artist": 12,
+        "metadata": {
+          "album": "Just Believe!!!",
+          "length": 280,
+          "composer": [
+            "米澤森人",
+            "藤原彩豊"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6vWqcL79ETNeXDZpR231Tn",
+            "youtube": "5LSOw13RGKs"
+          }
+        }
+      },
+      {
+        "title": "決意の光",
+        "title.ko": "결의의 빛",
+        "artist": 13,
+        "metadata": {
+          "album": "Just Believe!!!",
+          "length": 234,
+          "composer": [
+            "中村歩",
+            "菊池博人"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5bKOT6xcTF9SLJw4sKgb2s",
+            "youtube": "I8JYMvUpTI4"
+          }
+        }
+      },
+      {
+        "title": "TOKIMEKI Runners (10인 버전)",
+        "artist": 0,
+        "metadata": {
+          "album": "Just Believe!!!",
+          "length": 289,
+          "composer": [
+            "矢鴇つかさ (Arte Refact)"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4XWwyEKkU1KEmVCwGjCOXf",
+            "youtube": "RMJ1TT5Gh1g"
+          }
+        }
+      },
+      {
+        "title": "Just Believe!!!",
+        "artist": 0,
+        "metadata": {
+          "album": "Just Believe!!!",
+          "length": 246,
+          "composer": [
+            "PASSiON KiNG",
+            "ygarshy"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:0EIfyw7CQpOmIsV5CqnXLp",
+            "youtube": "eXdOdtfAv6M"
+          }
+        }
+      },
+      {
+        "title": "虹色Passions!",
+        "title.ko": "무지개 빛 Passions!",
+        "artist": 0,
+        "metadata": {
+          "album": "虹色Passions!",
+          "length": 255,
+          "streaming": {
+            "spotify": "spotify:track:02pLFicJc11BISyxKv8UcC",
+            "youtube": "KAEEhyfWtrw"
+          }
+        }
+      },
+      {
+        "title": "Sweet Eyes",
+        "artist": 0,
+        "metadata": {
+          "album": "虹色Passions!",
+          "length": 292,
+          "streaming": {
+            "spotify": "spotify:track:2qRh35Wd3WgUi5p1g2oatH",
+            "youtube": "MpAUJ36fq3g"
+          }
+        }
+      },
+      {
+        "title": "NEO SKY, NEO MAP!",
+        "artist": 0,
+        "metadata": {
+          "album": "NEO SKY, NEO MAP!",
+          "length": 278,
+          "streaming": {
+            "spotify": "spotify:track:4AMtutbqOdlw9ybtWSE1et",
+            "youtube": "m1ilXQbtizc"
+          }
+        }
+      },
+      {
+        "title": "全速ドリーマー",
+        "title.ko": "전속 드리머",
+        "artist": 0,
+        "metadata": {
+          "album": "NEO SKY, NEO MAP!",
+          "length": 259,
+          "streaming": {
+            "spotify": "spotify:track:6FIDVtIZikNpWLiGp4QtHB",
+            "youtube": "lGnNjhTRQVw"
+          }
+        }
+      },
+      {
+        "title": "Dream with You",
+        "artist": 4,
+        "metadata": {
+          "album": "Dream with You / Poppin' Up! / DIVE!",
+          "length": 258,
+          "streaming": {
+            "spotify": "spotify:track:2pOgQuNCRUmDvAKjqwmGR9",
+            "youtube": "0cGBTbjvwuo"
+          }
+        }
+      },
+      {
+        "title": "Poppin' Up!",
+        "artist": 5,
+        "metadata": {
+          "album": "Dream with You / Poppin' Up! / DIVE!",
+          "length": 258,
+          "streaming": {
+            "spotify": "spotify:track:0paCkEf09T6bhSrr5ZkIEe",
+            "youtube": "vGtXstAHlXU"
+          }
+        }
+      },
+      {
+        "title": "DIVE!",
+        "artist": 10,
+        "metadata": {
+          "album": "Dream with You / Poppin' Up! / DIVE!",
+          "length": 244,
+          "streaming": {
+            "spotify": "spotify:track:1U1MCOvXcpTguCzyXyBE90",
+            "youtube": "krzru9NkedE"
+          }
+        }
+      },
+      {
+        "title": "サイコーハート",
+        "title.ko": "사이코 하트",
+        "artist": 8,
+        "metadata": {
+          "album": "TVアニメ『ラブライブ！虹ヶ咲学園スクールアイドル同好会』挿入歌シングル第二弾 サイコーハート / La Bella Patria / ツナガルコネクト",
+          "length": 252,
+          "streaming": {
+            "spotify": "spotify:track:7fR786eNI8rp2sKxQM5jK0",
+            "youtube": "rFol2afue0Q"
+          }
+        }
+      },
+      {
+        "title": "La Bella Patria",
+        "artist": 11,
+        "metadata": {
+          "album": "TVアニメ『ラブライブ！虹ヶ咲学園スクールアイドル同好会』挿入歌シングル第二弾 サイコーハート / La Bella Patria / ツナガルコネクト",
+          "length": 286,
+          "streaming": {
+            "spotify": "spotify:track:29OkXQXdGcDRTzcqsy0kvJ",
+            "youtube": "i-NzrXpwJoA"
+          }
+        }
+      },
+      {
+        "title": "ツナガルコネクト",
+        "title.ko": "이어지는 커넥트",
+        "artist": 12,
+        "metadata": {
+          "album": "TVアニメ『ラブライブ！虹ヶ咲学園スクールアイドル同好会』挿入歌シングル第二弾 サイコーハート / La Bella Patria / ツナガルコネクト",
+          "length": 238,
+          "streaming": {
+            "spotify": "spotify:track:5STRLlJ8d8O8cImBgyxvNv",
+            "youtube": "Kzr_xuqqh-M"
+          }
+        }
+      },
+      {
+        "title": "Butterfly",
+        "artist": 9,
+        "metadata": {
+          "album": "Butterfly / Solitude Rain / VIVID WORLD",
+          "length": 216,
+          "streaming": {
+            "spotify": "spotify:track:0CmpgRM57Uq8KOQAzKOxrq",
+            "youtube": "aoRBp5C_ZyI"
+          }
+        }
+      },
+      {
+        "title": "Solitude Rain",
+        "artist": 6,
+        "metadata": {
+          "album": "Butterfly / Solitude Rain / VIVID WORLD",
+          "length": 247,
+          "streaming": {
+            "spotify": "spotify:track:7pTGAjgAD6mojP2oRwiXX5",
+            "youtube": "8yyMnAK2Ki4"
+          }
+        }
+      },
+      {
+        "title": "VIVID WORLD",
+        "artist": 7,
+        "metadata": {
+          "album": "Butterfly / Solitude Rain / VIVID WORLD",
+          "length": 276,
+          "streaming": {
+            "spotify": "spotify:track:2nsE6Ebr959B30OaevvMJI",
+            "youtube": "FFyWNOU82Vw"
+          }
+        }
+      },
+      {
+        "title": "Awakening Promise",
+        "artist": 4,
+        "metadata": {
+          "album": "Awakening Promise/夢がここからはじまるよ",
+          "length": 254,
+          "streaming": {
+            "spotify": "spotify:track:5tURJEIapyFgJB6OoykQJI",
+            "youtube": "YSYg3LKAMgA"
+          }
+        }
+      },
+      {
+        "title": "夢がここからはじまるよ",
+        "title.ko": "꿈이 여기서부터 시작돼",
+        "artist": 0,
+        "metadata": {
+          "album": "Awakening Promise/夢がここからはじまるよ",
+          "length": 284,
+          "streaming": {
+            "spotify": "spotify:track:1VXAsYc8reWdpt1l5mXzid",
+            "youtube": "02tMRFTzMlw"
+          }
+        }
+      },
+      {
+        "title": "POWER SPOT!!",
+        "artist": 1,
+        "metadata": {
+          "album": "POWER SPOT!!",
+          "length": 239,
+          "composer": [
+            "Carlos K."
+          ]
+        }
+      },
+      {
+        "title": "Kakushiaji!",
+        "title.ko": "숨겨진 맛!",
+        "artist": 2,
+        "metadata": {
+          "album": "Kakushiaji!",
+          "length": 240
+        }
+      },
+      {
+        "title": "Make-up session ABC",
+        "artist": 3,
+        "metadata": {
+          "album": "ラブライブ! 虹ヶ咲学園スクールアイドル同好会 オリジナルソングCD vol.03",
+          "length": 253
+        }
+      },
+      {
+        "title": "祭花 -saika-",
+        "title.ko": "제화 -saika-",
+        "artist": 1,
+        "metadata": {
+          "album": "祭花 -saika-",
+          "length": 257
+        }
+      },
+      {
+        "title": "Happy Nyan! Days",
+        "artist": 2,
+        "metadata": {
+          "album": "Happy Nyan! Days",
+          "length": 233
+        }
+      },
+      {
+        "title": "Twinkle Town",
+        "artist": 3,
+        "metadata": {
+          "album": "Twinkle Town",
+          "length": 255
+        }
+      },
+      {
+        "title": "THE SECRET NiGHT",
+        "artist": 1,
+        "metadata": {
+          "album": "THE SECRET NiGHT",
+          "length": 233,
+          "released": 1621987200,
+          "streaming": {
+            "spotify": "spotify:track:5suU2eE1OiXqZbrQzj9SN7",
+            "youtube": "v5ZslcBjbq8"
+          }
+        }
+      },
+      {
+        "title": "Fly into the sky",
+        "artist": 1,
+        "metadata": {
+          "album": "THE SECRET NiGHT",
+          "length": 249,
+          "released": 1621987200,
+          "streaming": {
+            "spotify": "spotify:track:13js1LWsNrTSUomm4bYblW",
+            "youtube": "gWSAmlTD4wo"
+          }
+        }
+      },
+      {
+        "title": "Maze Town",
+        "artist": 2,
+        "metadata": {
+          "album": "Maze Town",
+          "length": 263,
+          "released": 1623801600,
+          "streaming": {
+            "spotify": "spotify:track:1aLfZSKp44prkEYIGpWM63",
+            "youtube": "FE2ykAqHdEc"
+          }
+        }
+      },
+      {
+        "title": "フォルクロア ～歓喜の歌～",
+        "title.ko": "포크로어 ~환희의 노래~",
+        "artist": 2,
+        "metadata": {
+          "album": "Maze Town",
+          "length": 204,
+          "released": 1623801600,
+          "streaming": {
+            "spotify": "spotify:track:0X9n53f79K9XLWX4qKu2qW",
+            "youtube": "N9_pIJEqL_4"
+          }
+        }
+      },
+      {
+        "title": "Hurray Hurray",
+        "artist": 0,
+        "metadata": {
+          "album": "Hurray Hurray",
+          "length": 273,
+          "released": 1624579200,
+          "composer": [
+            "Ryota Saito",
+            "Diz"
+          ],
+          "streaming": {
+            "youtube": "NGVBCOvz7ko"
+          }
+        }
+      },
+      {
+        "title": "Swinging!",
+        "artist": 3,
+        "metadata": {
+          "album": "Swinging!",
+          "length": 243,
+          "released": 1626220800,
+          "streaming": {
+            "spotify": "spotify:track:13js1LWsNrTSUomm4bYblW",
+            "youtube": "ec1QM7aUWEE"
+          }
+        }
+      },
+      {
+        "title": "Not Sad",
+        "artist": 3,
+        "metadata": {
+          "album": "Swinging!",
+          "length": 257,
+          "released": 1626220800,
+          "streaming": {
+            "spotify": "spotify:track:0jfqESQKZffIftSyZUAbPx",
+            "youtube": "TXG5xBcHlno"
+          }
+        }
+      }
+    ],
+    [
+      {
+        "title": "始まりは君の空",
+        "title.ko": "시작은 너의 하늘",
+        "artist": 0,
+        "metadata": {
+          "album": "始まりは君の空",
+          "length": 302,
+          "streaming": {
+            "spotify": "spotify:track:3MLmsSy2wq9Ko73GSDUwNM",
+            "youtube": "bjIRLovzc80"
+          }
+        }
+      },
+      {
+        "title": "Dancing Heart La-Pa-Pa-Pa!",
+        "artist": 0,
+        "metadata": {
+          "album": "始まりは君の空",
+          "length": 199,
+          "streaming": {
+            "spotify": "spotify:track:3KJwVgA2M5SgZ4p0kjMpKk",
+            "youtube": "tRwSxoz0JzU"
+          }
+        }
+      },
+      {
+        "title": "Dreaming Energy",
+        "artist": 0,
+        "metadata": {
+          "album": "始まりは君の空",
+          "length": 295,
+          "streaming": {
+            "spotify": "spotify:track:0OvbH8jtqdiX4yZITT3mVS",
+            "youtube": "7u-i_OyaLaY"
+          }
+        }
+      },
+      {
+        "title": "私のSymphony",
+        "title.ko": "나의 Symphony",
+        "artist": 0,
+        "metadata": {
+          "album": "始まりは君の空",
+          "length": 238,
+          "streaming": {
+            "spotify": "spotify:track:3MLmsSy2wq9Ko73GSDUwNM",
+            "youtube": "6IdwHfgIzOQ"
+          }
+        }
+      },
+      {
+        "title": "START!! True dreams",
+        "artist": 0,
+        "metadata": {
+          "album": "START!! True dreams",
+          "length": 241,
+          "composer": [
+            "畑亜貴",
+            "小幡康裕",
+            "山下洋介"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4b5akyLpnayCjVkYJmP88J",
+            "youtube": "35WteJ60cps"
+          }
+        }
+      },
+      {
+        "title": "だから僕らは鳴らすんだ！",
+        "title.ko": "그래서 우리는 소리를 울리는 거야!",
+        "artist": 0,
+        "metadata": {
+          "album": "START!! True dreams",
+          "length": 245,
+          "composer": [
+            "宮嶋淳子",
+            "藤井万利子",
+            "久保田真悟（Jazzin’park）"
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4PiWVzAtJ9hNl8Sjzj7VW2",
+            "youtube": "0sF9QKeY8Bo"
+          }
+        }
+      },
+      {
+        "title": "未来は風のように",
+        "title.ko": "미래는 바람처럼",
+        "artist": 0,
+        "metadata": {
+          "album": "未来は風のように",
+          "length": 247,
+          "released": 1629849600,
+          "streaming": {
+            "spotify": "spotify:track:4th5k2K45udTXELLdrVk18",
+            "youtube": "ZfjpsHnU9DM"
+          }
+        }
+      },
+      {
+        "title": "この街でいまキミと",
+        "title.ko": "이 거리에서 지금 너와",
+        "artist": 0,
+        "metadata": {
+          "album": "未来は風のように",
+          "length": 259,
+          "released": 1629849600,
+          "streaming": {
+            "spotify": "spotify:track:2OSWhe6d75zEZI9f0szj6s",
+            "youtube": "zjPhzcMaMb4"
+          }
+        }
+      },
+      {
+        "title": "未来予報ハレルヤ!",
+        "title.ko": "미래예보 하레루야!",
+        "artist": 0,
+        "metadata": {
+          "album": "未来予報ハレルヤ!/Tiny Stars",
+          "length": 231,
+          "released": 1629849600,
+          "streaming": {
+            "spotify": "spotify:track:39u2IRpp8uuWxd8TfnEftr",
+            "youtube": "V6ytTXw6838"
+          }
+        }
+      },
+      {
+        "title": "GOING UP",
+        "artist": 0,
+        "metadata": {
+          "album": "未来予報ハレルヤ!/Tiny Stars",
+          "released": 1629849600,
+          "streaming": {
+            "spotify": "spotify:track:2XLcdWHqfOkNTQdiIPfcup",
+            "youtube": "zFV-Q0DjFUY"
+          }
+        }
+      },
+      {
+        "title": "Tiny Stars",
+        "artist": 0,
+        "metadata": {
+          "album": "未来予報ハレルヤ!/Tiny Stars",
+          "released": 1629849600,
+          "streaming": {
+            "spotify": "spotify:track:3pKcK6fQkqEWdNJ2i1tsCn",
+            "youtube": "UPpIrXjGXvU"
+          }
+        }
+      },
+      {
+        "title": "1.2.3!",
+        "artist": 0,
+        "metadata": {
+          "album": "未来予報ハレルヤ!/Tiny Stars",
+          "released": 1629849600,
+          "streaming": {
+            "spotify": "spotify:track:3AIwVCB3xukZP0vLrv2QxR",
+            "youtube": "En23vkPawHU"
+          }
+        }
+      }
+    ]
+  ]
+}
