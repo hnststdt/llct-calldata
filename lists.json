@@ -5026,7 +5026,11 @@
           "length": 239,
           "composer": [
             "Carlos K."
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5WmSxiY7CyxEUwgT2kyj1Z",
+            "youtube": "_0XMKlwsnn0"
+          }
         }
       },
       {
@@ -5035,7 +5039,11 @@
         "artist": 2,
         "metadata": {
           "album": "Kakushiaji!",
-          "length": 240
+          "length": 240,
+          "streaming": {
+            "spotify": "spotify:track:0kuHUONx1ZDIy5XPaXj3TG",
+            "youtube": "tn5iqBFBJRw"
+          }
         }
       },
       {
@@ -5043,7 +5051,11 @@
         "artist": 3,
         "metadata": {
           "album": "ラブライブ! 虹ヶ咲学園スクールアイドル同好会 オリジナルソングCD vol.03",
-          "length": 253
+          "length": 253,
+          "streaming": {
+            "spotify": "spotify:track:79et0immBzRfo96bnGep9r",
+            "youtube": "zqVgZ7obL5U"
+          }
         }
       },
       {
@@ -5052,7 +5064,11 @@
         "artist": 1,
         "metadata": {
           "album": "祭花 -saika-",
-          "length": 257
+          "length": 257,
+          "streaming": {
+            "spotify": "spotify:track:7sp6309R5XDB1XNyjyVDG5",
+            "youtube": "nxmL6vt0m10"
+          }
         }
       },
       {
@@ -5060,7 +5076,11 @@
         "artist": 2,
         "metadata": {
           "album": "Happy Nyan! Days",
-          "length": 233
+          "length": 233,
+          "streaming": {
+            "spotify": "spotify:track:2occasmKFRrADf4vKqIjc1",
+            "youtube": "OicyCCqlJkU"
+          }
         }
       },
       {
@@ -5068,7 +5088,11 @@
         "artist": 3,
         "metadata": {
           "album": "Twinkle Town",
-          "length": 255
+          "length": 255,
+          "streaming": {
+            "spotify": "spotify:track:6ldZaRUFcKh908SJXwdbZj",
+            "youtube": "O_KyCCsHzK8"
+          }
         }
       },
       {
@@ -5136,7 +5160,8 @@
             "Diz"
           ],
           "streaming": {
-            "youtube": "NGVBCOvz7ko"
+            "spotify": "spotify:track:5Ji3D1UvL0NpiMMf1d9yCi",
+            "youtube": "586NzUXCi3A"
           }
         }
       },
